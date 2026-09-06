@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://xam-goth-apparel.github.io/store
-Sitemap: https://xam-goth-apparel.github.io/store/products.html
+Sitemap: https://xam-goth-apparel.github.io/store/sitemap.xml
