@@ -80,6 +80,60 @@ body {
 }
 
 /* ==========================================
+   NAVBAR - DROPDOWN FLOTANTE EN MÓVIL
+   ========================================== */
+   
+.navbar-collapse {
+    overflow: visible;
+    max-height: none;
+}
+
+.navbar-nav {
+    overflow: visible;
+}
+
+.navbar-nav .nav-item.dropdown {
+    overflow: visible;
+}
+
+@media (max-width: 991.98px) {
+    .navbar-nav .dropdown {
+        position: relative;
+    }
+    
+    .navbar-nav .dropdown-menu {
+        position: absolute;
+        top: 100%;
+        left: auto;
+        right: 0;
+        transform: none;
+        background: #ffffff;
+        border: 1px solid #cccccc;
+        box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+        z-index: 1060;
+        min-width: 140px;
+        display: none;
+        margin-top: 0.2rem;
+        border-radius: 4px;
+        padding: 0.25rem 0;
+    }
+    
+    .navbar-nav .dropdown-menu.show {
+        display: block;
+    }
+    
+    .navbar-nav .dropdown-toggle {
+        display: flex;
+        align-items: center;
+    }
+    
+    .navbar-nav .dropdown-toggle::after {
+        margin-left: 6px;
+    }
+}
+
+
+/* ==========================================
    HERO - ANIMACIÓN DE ENTRADA
    ========================================== */
 .hero-title,
