@@ -310,7 +310,6 @@ footer .social-icons a:hover {
     left: 0;
     width: 100%;
     white-space: nowrap;
-    overflow: hidden;
     pointer-events: none;
 
     /* ===== EFECTO PARTIDO (blanco arriba, negro abajo) ===== */

@@ -1,29 +1,4 @@
 /* ==========================================
-   ELIMINAR SCROLL LATERAL (SOLO DONDE SE NECESITA)
-   ========================================== */
-html, body {
-    height: 100%;
-    margin: 0;
-    display: flex;
-    flex-direction: column;
-    overflow-x: hidden;
-}
-
-/* ==========================================
-   LAYOUT PRINCIPAL
-   ========================================== */
-section.py-5.bg-dark.text-white {
-    flex: 1 0 auto;
-    min-height: 60vh;
-    overflow-x: hidden;
-}
-
-.footer-wrapper {
-    flex-shrink: 0;
-    overflow-x: hidden;
-}
-
-/* ==========================================
    CONTENEDOR DE ITEMS CON SCROLL VERTICAL
    ========================================== */
 #cart-items-container {
@@ -33,7 +8,7 @@ section.py-5.bg-dark.text-white {
     padding-right: 8px;
 }
 
-/* Scroll personalizado (solo vertical) */
+/* Scroll personalizado */
 #cart-items-container::-webkit-scrollbar {
     width: 6px;
 }
@@ -75,6 +50,8 @@ section.py-5.bg-dark.text-white {
     transition: border-color 0.3s ease, transform 0.2s ease;
     overflow: hidden;
     flex-wrap: wrap;
+    max-width: 100%;
+    box-sizing: border-box;
 }
 
 .cart-item:hover {
@@ -180,11 +157,11 @@ section.py-5.bg-dark.text-white {
 }
 
 /* ==========================================
-   BOTÓN ELIMINAR - CORREGIDO
+   BOTÓN ELIMINAR
    ========================================== */
 .cart-item-remove {
     flex-shrink: 0;
-    overflow: visible;       /* <--- Permite que el hover se vea sin scroll */
+    overflow: visible;
 }
 
 .cart-item-remove .btn-remove {
@@ -196,8 +173,8 @@ section.py-5.bg-dark.text-white {
     transition: color 0.3s ease, transform 0.2s ease;
     padding: 5px 10px;
     font-family: 'Inter', sans-serif;
-    display: inline-block;   /* <--- Asegura que no se desborde */
-    white-space: nowrap;     /* <--- Evita que el texto se rompa */
+    display: inline-block;
+    white-space: nowrap;
 }
 
 .cart-item-remove .btn-remove:hover {
@@ -252,16 +229,16 @@ section.py-5.bg-dark.text-white {
 }
 
 /* ==========================================
-   BOTONES DE ACCIÓN (Seguir comprando / Vaciar)
+   BOTONES DE ACCIÓN
    ========================================== */
-.btn-outline-light {
+.cart-actions .btn-outline-light {
     border-color: #444;
     color: #ccc;
     transition: all 0.3s ease;
     font-family: 'Inter', sans-serif;
 }
 
-.btn-outline-light:hover {
+.cart-actions .btn-outline-light:hover {
     background: #ffffff;
     color: #0a0a0a;
     border-color: #ffffff;
@@ -280,14 +257,94 @@ section.py-5.bg-dark.text-white {
 }
 
 /* ==========================================
+   PANTALLAS EXTRA PEQUEÑAS (< 420px)
+   ========================================== */
+@media (max-width:520px) {
+    /* Título más pequeño */
+    .section-title {
+        font-size: 1.2rem !important;
+        letter-spacing: 2px;
+    }
+    
+    /* Botones más pequeños */
+    .btn-outline-light {
+        font-size: 0.75rem !important;
+        padding: 0.3rem 0.6rem !important;
+    }
+    
+    .btn-outline-light.me-2 {
+        margin-right: 0.2rem !important;
+    }
+    
+    /* Espaciado entre botones */
+    .row.align-items-center.mb-4 .btn-outline-light {
+        margin: 0.1rem !important;
+    }
+    
+    /* Reducir el padding del contenedor */
+    .container {
+        padding-left: 12px !important;
+        padding-right: 12px !important;
+    }
+    
+    /* Items del carrito más compactos */
+    .cart-item {
+        padding: 0.6rem 0.8rem !important;
+        gap: 0.5rem;
+    }
+    
+    .cart-item-image {
+        width: 50px !important;
+        height: 50px !important;
+    }
+    
+    .cart-item-info h5 {
+        font-size: 0.8rem !important;
+    }
+    
+    .cart-item-price {
+        font-size: 0.7rem !important;
+    }
+    
+    .cart-item-quantity .btn-qty {
+        width: 26px !important;
+        height: 26px !important;
+        font-size: 0.9rem !important;
+    }
+    
+    .cart-item-quantity span {
+        font-size: 0.85rem !important;
+        min-width: 18px;
+    }
+    
+    .cart-item-subtotal {
+        font-size: 0.8rem !important;
+        min-width: 70px;
+    }
+    
+    .cart-item-remove .btn-remove {
+        font-size: 1rem !important;
+        padding: 3px 6px !important;
+    }
+    
+    .cart-total-row {
+        font-size: 1rem !important;
+    }
+    
+    .cart-total-amount {
+        font-size: 1.1rem !important;
+    }
+    
+    .btn-checkout {
+        font-size: 0.85rem !important;
+        padding: 0.5rem 1rem !important;
+    }
+}
+
+/* ==========================================
    RESPONSIVE
    ========================================== */
 @media (max-width: 768px) {
-    /* Ajustes generales */
-    * {
-        overflow-x: hidden;
-    }
-
     #cart-items-container {
         max-height: 50vh;
     }
@@ -343,7 +400,6 @@ section.py-5.bg-dark.text-white {
         margin: 0.2rem;
     }
 
-    /* Acciones del carrito */
     .cart-actions .row {
         flex-direction: column;
         align-items: stretch !important;
@@ -406,7 +462,6 @@ section.py-5.bg-dark.text-white {
         order: unset;
     }
 
-    /* Botones en móvil pequeño */
     .row.align-items-center.mb-4 .btn-outline-light {
         display: block;
         width: 100%;
