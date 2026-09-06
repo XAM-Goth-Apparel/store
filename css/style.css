@@ -82,7 +82,7 @@ body {
 /* ==========================================
    NAVBAR - DROPDOWN FLOTANTE EN MÓVIL
    ========================================== */
-   
+
 .navbar-collapse {
     overflow: visible;
     max-height: none;
@@ -201,6 +201,26 @@ body {
 .hero-section .btn-outline-light:hover {
     background: #ffffff;
     color: #0a0a0a;
+}
+
+/* ==========================================
+   Cart - Products
+   ========================================== */
+
+.cart-count-badge {
+    display: none;
+}
+
+.cart-count-badge.visible {
+    display: inline-block !important;
+}
+
+.cart-count {
+    display: none;
+}
+
+.cart-count.visible {
+    display: inline-block !important;
 }
 
 /* ==========================================
