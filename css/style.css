@@ -1,3 +1,15 @@
+/* ==========================================
+   ELIMINAR SCROLL HORIZONTAL GLOBAL
+   ========================================== */
+html, body {
+    overflow-x: hidden;
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
 /* ===== FUENTES ===== */
 :root {
     --gothic-font: 'Uncial Antiqua', cursive;
