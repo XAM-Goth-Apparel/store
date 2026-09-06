@@ -1,6 +1,6 @@
 Licencia MIT
 
-Copyright (c) 2026 TheRealHe (o el nombre de tu marca)
+Copyright (c) 2026 XAM Goth Apparel
 
 Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y de los archivos de documentación asociados, para tratar el Software sin restricción, incluidos, sin limitación, los derechos de uso, copia, modificación, fusión, publicación, distribución, sublicencia y/o venta de copias del Software, y para permitir a las personas a las que se les proporcione el Software hacerlo, sujeto a las siguientes condiciones:
 
