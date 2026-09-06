@@ -355,6 +355,11 @@ function cambiarIdioma(lang) {
     if (document.getElementById('product-grid')) {
         renderizarProductos();
     }
+
+    if (document.getElementById('cart-items')) {
+        renderCart();
+    }
+
 }
 
 
