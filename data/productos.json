@@ -205,5 +205,26 @@
       "/assets/images/skirt 1.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 12,
+    "nombre": {
+      "es": "Peluche Gótico Baphomet con Dije",
+      "en": "Gothic Baphomet Plush with Charm"
+    },
+    "descripcion": {
+      "es": "Peluche gótico inspirado en Baphomet, disponible en vino y negro/púrpura, con cuernos, pentagrama bordado, alas y dije colgante en la garganta.",
+      "en": "Gothic plush inspired by Baphomet, available in wine and black/purple, featuring horns, embroidered pentagram, wings, and a hanging charm on the neck."
+    },
+    "precio": 65000,
+    "categoria": "peluches",
+    "imagenes": [
+      "/assets/images/baphomet 1.webp",
+      "/assets/images/baphomet 2-1.webp",
+      "/assets/images/baphomet 3.webp",
+      "/assets/images/baphomet 4.webp",
+      "/assets/images/baphomet 5.webp"
+    ],
+    "activo": true
   }
 ]
