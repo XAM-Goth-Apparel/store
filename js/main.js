@@ -517,7 +517,7 @@ function mostrarUltimosProductos() {
         }
 
         return `
-            <div class="col-md-3 col-6">
+            <div class="col-12 col-md-3">
                 <div class="product-card h-100">
                     <div id="${carouselId}" class="carousel slide" data-bs-ride="false">
                         <div class="carousel-inner" style="cursor: pointer;">
