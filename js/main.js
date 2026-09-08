@@ -66,8 +66,8 @@ const traducciones = {
     'about-highlight-1': { es: 'Nacimos lejos.', en: 'We were born far away.' },
     'about-highlight-2': { es: 'Pero encontramos nuestro lugar aquí.', en: 'But we found our place here.' },
     'about-text1': { 
-        es: 'XAM Goth Apparel nació en Australia, en Perth, buscando algo que simplemente no encontrábamos: una propuesta diferente para quienes querían vestir fuera de lo convencional.', 
-        en: 'XAM Goth Apparel was born in Australia, in Perth, searching for something we simply couldn\'t find: a different proposal for those who wanted to dress outside the conventional.' },
+        es: 'XAM Goth Apparel nació en Australia, Perth WA, buscando algo que simplemente no encontrábamos: una propuesta diferente para quienes querían vestir fuera de lo convencional.', 
+        en: 'XAM Goth Apparel was born in Australia, Perth WA, searching for something we simply couldn\'t find: a different proposal for those who wanted to dress outside the conventional.' },
     'about-text2': { 
         es: 'Hoy, desde Colombia, seguimos con esa misma obsesión. Usamos las conexiones que hicimos en Australia para traer productos únicos a nuestro país. Amamos esta moda y queremos que más personas se enamoren de ella al entrar a nuestra tienda.', 
         en: 'Today, from Colombia, we continue with that same obsession. We use the connections we made in Australia to bring unique products to our country. We love this fashion and want more people to fall in love with it when they walk into our store.' },
