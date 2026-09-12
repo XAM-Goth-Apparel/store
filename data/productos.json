@@ -440,5 +440,23 @@
       "/assets/images/anillo punisher 2.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 125,
+    "nombre": {
+      "es": "Anillo de Pentagrama con Manos Esqueléticas",
+      "en": "Skeletal Hands Pentagram Ring"
+    },
+    "descripcion": {
+      "es": "Anillo de metal con un pentagrama central sostenido por manos esqueléticas que rodean el diseño.",
+      "en": "Metal ring with a central pentagram held by skeletal hands wrapping around the design."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo pentagrama cogido con manos esqueleticas 1.webp",
+      "/assets/images/anillo pentagrama cogido con manos esqueleticas 2.webp"
+    ],
+    "activo": true
   }
 ]
