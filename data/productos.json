@@ -404,5 +404,23 @@
       "/assets/images/Collar cruces corazon 1.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 23,
+    "nombre": {
+      "es": "Anillo de Serpiente Enrollada",
+      "en": "Coiled Snake Ring"
+    },
+    "descripcion": {
+      "es": "Anillo de metal con un diseño de serpiente enrollada alrededor del dedo, con detalles texturizados en las escamas.",
+      "en": "Metal ring with a coiled snake design wrapping around the finger, featuring textured scale details."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo serpiente 1.webp",
+      "/assets/images/anillo serpiente 2.webp"
+    ],
+    "activo": true
   }
 ]
