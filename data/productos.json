@@ -566,5 +566,23 @@
       "/assets/images/anillo flor 2.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 32,
+    "nombre": {
+      "es": "Anillo de Máscara Antigás",
+      "en": "Gas Mask Ring"
+    },
+    "descripcion": {
+      "es": "Anillo de acero inoxidable con un diseño detallado de máscara antigás, con filtros laterales y acabado texturizado.",
+      "en": "Stainless steel ring with a detailed gas mask design, featuring side filters and a textured finish."
+    },
+    "precio": 35000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo fallout 1.webp",
+      "/assets/images/anillo fallout 2.webp"
+    ],
+    "activo": true
   }
 ]
