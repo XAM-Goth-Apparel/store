@@ -422,5 +422,23 @@
       "/assets/images/anillo serpiente 2.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 24,
+    "nombre": {
+      "es": "Anillo Calavera con Ojos Rojos",
+      "en": "Red-Eyed Skull Ring"
+    },
+    "descripcion": {
+      "es": "Anillo de metal con un diseño de calavera estilizada que presenta ojos con gemas rojas y detalles texturizados en la mandíbula.",
+      "en": "Metal ring featuring a stylized skull design with red gem eyes and textured jaw details."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo punisher 1.webp",
+      "/assets/images/anillo punisher 2.webp"
+    ],
+    "activo": true
   }
 ]
