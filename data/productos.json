@@ -743,9 +743,8 @@
     "precio": 35000,
     "categoria": "accesorios",
     "imagenes": [
-      "/assets/images/anillo calavera soldado 2-1.webp",
-      "/assets/images/anillo calavera soldado 1-1.webp",
-      "/assets/images/anillo calavera soldado 3-1.webp"
+      "/assets/images/anillo calavera quemada 1-1.webp",
+      "/assets/images/anillo calavera quemada 2.webp"
     ],
     "activo": true
   },
