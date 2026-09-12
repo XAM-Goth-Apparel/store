@@ -264,5 +264,22 @@
       "/assets/images/evil baphomet 3.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 15,
+    "nombre": {
+      "es": "Collar de Cadena con Púas y Corazón",
+      "en": "Spiked Chain Heart Necklace"
+    },
+    "descripcion": {
+      "es": "Collar de cadena gruesa con púas metálicas distribuidas alrededor y un dije central de corazón con espinas entrelazadas.",
+      "en": "Thick chain necklace with metallic spikes distributed around it and a central heart charm with intertwined thorns."
+    },
+    "precio": 45000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/espinas corazon con cadenas 1.webp"
+    ],
+    "activo": true
   }
 ]
