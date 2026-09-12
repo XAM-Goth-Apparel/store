@@ -386,5 +386,23 @@
       "/assets/images/collar cruz negro con diaframa 2.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 22,
+    "nombre": {
+      "es": "Collar Gótico de Corazón con Espinas y Cruces",
+      "en": "Gothic Thorned Heart Cross Necklace"
+    },
+    "descripcion": {
+      "es": "Collar de cadena metálica con eslabones en forma de espinas y pequeñas cruces, con un dije central de corazón con cruz. Disponible en rojo o plateado.",
+      "en": "Metallic chain necklace with thorn-shaped links and small crosses, featuring a central heart charm with a cross. Available in red or silver."
+    },
+    "precio": 45000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/collar cruces corazon 3.webp",
+      "/assets/images/Collar cruces corazon 1.webp"
+    ],
+    "activo": true
   }
 ]
