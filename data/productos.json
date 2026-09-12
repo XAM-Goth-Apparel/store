@@ -801,5 +801,22 @@
       "/assets/images/anillo aguila 2.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 45,
+    "nombre": {
+      "es": "Collar de Encaje con Corazón Alado",
+      "en": "Lace Winged Heart Choker"
+    },
+    "descripcion": {
+      "es": "Collar de encaje negro con detalles calados, adornado con pequeñas cuentas facetadas y un dije central de corazón rojo con alas de murciélago.",
+      "en": "Black lace choker with cutout details, adorned with small faceted beads and a central red heart charm with bat wings."
+    },
+    "precio": 28000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/chocker tejido corazon rojo con alas.webp"
+    ],
+    "activo": true
   }
 ]
