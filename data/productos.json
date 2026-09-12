@@ -638,5 +638,22 @@
       "/assets/images/anillo demonio calavera 2.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 36,
+    "nombre": {
+      "es": "Anillo de Cuervo con Ojo Rojo",
+      "en": "Red-Eyed Raven Ring"
+    },
+    "descripcion": {
+      "es": "Anillo con un diseño detallado de cabeza de cuervo, con textura de plumas y un ojo con gema roja.",
+      "en": "Ring with a detailed raven head design, featuring feather texture and a red gem eye."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo cuervo 1.webp"
+    ],
+    "activo": true
   }
 ]
