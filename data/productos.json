@@ -368,5 +368,23 @@
       "/assets/images/collar grande de princesa gema negra 1.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 21,
+    "nombre": {
+      "es": "Collar de Cruz Gótica con Pentagrama",
+      "en": "Gothic Cross Pentagram Necklace"
+    },
+    "descripcion": {
+      "es": "Collar de cordón negro con una cruz gótica ornamentada y un pentagrama central. Disponible en plateado o rojo.",
+      "en": "Black cord necklace with an ornate gothic cross and a central pentagram. Available in silver or red."
+    },
+    "precio": 18000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/collar cruz rojo con diaframa 1.webp",
+      "/assets/images/collar cruz negro con diaframa 2.webp"
+    ],
+    "activo": true
   }
 ]
