@@ -298,5 +298,23 @@
       "/assets/images/corazon rojo con puas y cuerda negra.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 17,
+    "nombre": {
+      "es": "Collar Gótico de Corazón Espinado con Cruces",
+      "en": "Thorned Heart Cross Necklace"
+    },
+    "descripcion": {
+      "es": "Collar de cadena metálica con detalles de espinas y pequeñas cruces, con un dije central de corazón (disponible en negro o rojo) rodeado de espinas.",
+      "en": "Metallic chain necklace with thorn and small cross details, featuring a central heart charm (available in black or red) surrounded by thorns."
+    },
+    "precio": 45000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/corazon cuernos con cruces 1.webp",
+      "/assets/images/corazon cuernos con cruces 2.webp"
+    ],
+    "activo": true
   }
 ]
