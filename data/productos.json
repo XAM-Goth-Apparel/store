@@ -512,5 +512,23 @@
       "/assets/images/anillo lobo bravo 2.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 29,
+    "nombre": {
+      "es": "Anillo de Plumas Enrolladas",
+      "en": "Coiled Feather Ring"
+    },
+    "descripcion": {
+      "es": "Anillo de metal con un diseño de plumas texturizadas que se enrollan alrededor del dedo.",
+      "en": "Metal ring with a design of textured feathers coiling around the finger."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo hojas 1.webp",
+      "/assets/images/anillo hojas 2.webp"
+    ],
+    "activo": true
   }
 ]
