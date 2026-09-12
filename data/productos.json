@@ -748,5 +748,23 @@
       "/assets/images/anillo calavera soldado 3-1.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 42,
+    "nombre": {
+      "es": "Anillo de Calavera con Cuernos de Carnero",
+      "en": "Ram Horned Skull Ring"
+    },
+    "descripcion": {
+      "es": "Anillo de acero inoxidable con un diseño de calavera y cuernos de carnero en espiral, con detalles marcados en el cráneo y la mandíbula.",
+      "en": "Stainless steel ring with a skull design and spiraled ram horns, featuring defined details on the skull and jaw."
+    },
+    "precio": 35000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo calavera con cuernos 1.webp",
+      "/assets/images/anillo calavera con cuernos 2.webp"
+    ],
+    "activo": true
   }
 ]
