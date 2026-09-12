@@ -476,5 +476,23 @@
       "/assets/images/anillo parca 2.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 27,
+    "nombre": {
+      "es": "Anillo de Mano Esquelética",
+      "en": "Skeletal Hand Ring"
+    },
+    "descripcion": {
+      "es": "Anillo de metal con un diseño de mano esquelética que envuelve el dedo, con detalles texturizados en los huesos y terminación en garra.",
+      "en": "Metal ring with a skeletal hand design wrapping around the finger, featuring textured bone details and a claw-like end."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo manos esqueleto 1.webp",
+      "/assets/images/anillo manos esqueleto 2.webp"
+    ],
+    "activo": true
   }
 ]
