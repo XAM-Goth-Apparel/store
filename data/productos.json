@@ -602,5 +602,23 @@
       "/assets/images/anillo escorpion 2.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 34,
+    "nombre": {
+      "es": "Anillo de Máscara Oni",
+      "en": "Oni Mask Ring"
+    },
+    "descripcion": {
+      "es": "Anillo de acero inoxidable con un diseño detallado de máscara Oni, con cuernos, colmillos y rasgos faciales marcados.",
+      "en": "Stainless steel ring with a detailed Oni mask design, featuring horns, fangs, and defined facial features."
+    },
+    "precio": 35000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo demonio oriental 1.webp",
+      "/assets/images/anillo demonio oriental 2.webp"
+    ],
+    "activo": true
   }
 ]
