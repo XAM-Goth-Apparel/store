@@ -494,5 +494,23 @@
       "/assets/images/anillo manos esqueleto 2.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 28,
+    "nombre": {
+      "es": "Anillo de Cabeza de Lobo",
+      "en": "Wolf Head Ring"
+    },
+    "descripcion": {
+      "es": "Anillo de metal con un diseño detallado de cabeza de lobo, con textura en el pelaje y rasgos faciales marcados.",
+      "en": "Metal ring featuring a detailed wolf head design, with textured fur and defined facial features."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo lobo bravo 1.webp",
+      "/assets/images/anillo lobo bravo 2.webp"
+    ],
+    "activo": true
   }
 ]
