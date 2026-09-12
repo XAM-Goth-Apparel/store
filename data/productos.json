@@ -1246,5 +1246,126 @@
       "/assets/images/aretes corazon con espada atravesandolo.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 71,
+    "nombre": {
+      "es": "Aretes de Cruz Ornamentada Negra",
+      "en": "Ornate Black Cross Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de cruz ornamentada en tono negro, con una piedra negra en el centro.",
+      "en": "Dangle earrings with an ornate cross design in black tone, featuring a black stone in the center."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes cruces negras grandes.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 72,
+    "nombre": {
+      "es": "Aretes de Murciélago con Alas Rojas",
+      "en": "Red Winged Bat Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de murciélago negro de alas rojas y cuerpo texturizado.",
+      "en": "Dangle earrings with a black bat design featuring red wings and a textured body."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes murcielagos tiernos.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 73,
+    "nombre": {
+      "es": "Aretes de Pentagrama de Espinas",
+      "en": "Thorn Pentagram Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de pentagrama formado por ramas espinosas en tono negro.",
+      "en": "Dangle earrings with a pentagram design made of thorny branches in black tone."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes pentagrama negro.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 74,
+    "nombre": {
+      "es": "Aretes de Gatito de Peluche",
+      "en": "Plush Kitty Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de gatito de peluche. Disponibles en blanco, gris o negro.",
+      "en": "Dangle earrings with a plush kitty design. Available in white, gray, or black."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes gatos peludos 1.webp",
+      "/assets/images/aretes gatos peludos 2.webp",
+      "/assets/images/aretes gatos peludos 3.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 75,
+    "nombre": {
+      "es": "Aretes de Luna Roja con Colgante",
+      "en": "Red Moon Dangle Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de luna roja y una gota roja colgante.",
+      "en": "Dangle earrings with a red moon design and a hanging red drop."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes luna de sangre.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 76,
+    "nombre": {
+      "es": "Aretes de Corazón Alado en Llamas",
+      "en": "Flaming Winged Heart Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de corazón negro con alas y detalles de llamas en la parte superior.",
+      "en": "Dangle earrings with a black heart design featuring wings and flame details on top."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes corazon negro con alas.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 77,
+    "nombre": {
+      "es": "Aretes de Luna con Hada",
+      "en": "Moon Fairy Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de luna ornamentada y un hada sentada en su interior.",
+      "en": "Dangle earrings with an ornate moon design and a fairy sitting inside."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes hada en medialuna.webp"
+    ],
+    "activo": true
   }
 ]
