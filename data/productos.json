@@ -458,5 +458,23 @@
       "/assets/images/anillo pentagrama cogido con manos esqueleticas 2.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 26,
+    "nombre": {
+      "es": "Anillo de Parca con Guadaña y Ojos Rojos",
+      "en": "Red-Eyed Grim Reaper Skull Ring"
+    },
+    "descripcion": {
+      "es": "Anillo de metal con un diseño de parca encapuchada sosteniendo una guadaña, con ojos de gemas rojas y detalles calados en la capucha.",
+      "en": "Metal ring featuring a hooded grim reaper holding a scythe, with red gem eyes and cutout details on the hood."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo parca 1.webp",
+      "/assets/images/anillo parca 2.webp"
+    ],
+    "activo": true
   }
 ]
