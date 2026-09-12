@@ -710,5 +710,24 @@
       "/assets/images/anillo cañavera con marca en la frente 2.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 40,
+    "nombre": {
+      "es": "Anillo de Esqueleto Soldado",
+      "en": "Soldier Skeleton Ring"
+    },
+    "descripcion": {
+      "es": "Anillo de acero inoxidable con un diseño de cráneo que lleva una banda texturizada en la frente y un emblema circular en la parte superior.",
+      "en": "Stainless steel ring with a skull design featuring a textured band across the forehead and a circular emblem on top."
+    },
+    "precio": 35000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo calavera soldado 2.webp",
+      "/assets/images/anillo calavera soldado 1.webp",
+      "/assets/images/anillo calavera soldado 3.webp"
+    ],
+    "activo": true
   }
 ]
