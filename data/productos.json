@@ -655,5 +655,24 @@
       "/assets/images/anillo cuervo 1.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 37,
+    "nombre": {
+      "es": "Anillo de Cráneo de Cuervo Tallado",
+      "en": "Carved Raven Skull Ring"
+    },
+    "descripcion": {
+      "es": "Anillo con un diseño de cráneo de cuervo alargado, con detalles tallados, pequeñas gemas rojas y acabado calado.",
+      "en": "Ring with an elongated raven skull design, featuring carved details, small red gems, and a cutout finish."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo craneo de cuervo marcado 1.webp",
+      "/assets/images/anillo craneo de cuervo marcado 3.webp",
+      "/assets/images/anillo craneo de cuervo marcado 2.webp"
+    ],
+    "activo": true
   }
 ]
