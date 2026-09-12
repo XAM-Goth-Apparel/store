@@ -1140,7 +1140,110 @@
     "precio": 20000,
     "categoria": "accesorios",
     "imagenes": [
-      "/assets/images/aretes corazon rojo rodeado de pinchos.webp"
+      "/assets/images/aretes corazon rojo rodeado de pinchos.webp",
+      "/assets/images/aretes corazon rojo rodeado de pinchos 2.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 65,
+    "nombre": {
+      "es": "Aretes de Gatito con Cuchillo Ensangrentado",
+      "en": "Bloody Knife Kitty Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de gatito blanco sosteniendo un cuchillo ensangrentado.",
+      "en": "Dangle earrings with a white kitty design holding a bloody knife."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes gato tierno con cuchillo ensangrentado.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 66,
+    "nombre": {
+      "es": "Aretes de Pentagrama",
+      "en": "Pentagram Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de pentagrama calado en tono plateado.",
+      "en": "Dangle earrings with a cutout pentagram design in silver tone."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes pentagrama plateado.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 67,
+    "nombre": {
+      "es": "Aretes de Calavera Derretida en Manzana",
+      "en": "Melting Skull Apple Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de calavera blanca derritiéndose sobre una manzana roja.",
+      "en": "Dangle earrings with a white skull melting over a red apple."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes manzana calavera.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 68,
+    "nombre": {
+      "es": "Aretes de Mano Mística con Corazón Negro",
+      "en": "Mystic Hand Black Heart Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de mano mística que sostiene un corazón negro en la palma.",
+      "en": "Dangle earrings with a mystic hand design holding a black heart in the palm."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes manos corazon negro.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 69,
+    "nombre": {
+      "es": "Aretes de Esqueleto Sirena",
+      "en": "Skeleton Mermaid Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de esqueleto con cola de sirena en tono plateado.",
+      "en": "Dangle earrings with a skeleton design featuring a mermaid tail in silver tone."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes sirena esqueleto.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 70,
+    "nombre": {
+      "es": "Aretes de Corazón Atravesado",
+      "en": "Pierced Heart Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de corazón rojo atravesado por una espada plateada.",
+      "en": "Dangle earrings with a red heart design pierced by a silver sword."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes corazon con espada atravesandolo.webp"
     ],
     "activo": true
   }
