@@ -584,5 +584,23 @@
       "/assets/images/anillo fallout 2.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 33,
+    "nombre": {
+      "es": "Anillo de Escorpión",
+      "en": "Scorpion Ring"
+    },
+    "descripcion": {
+      "es": "Anillo con un diseño detallado de escorpión, con pinzas, cuerpo segmentado y cola levantada.",
+      "en": "Ring with a detailed scorpion design, featuring pincers, a segmented body, and a raised tail."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo escorpion 1.webp",
+      "/assets/images/anillo escorpion 2.webp"
+    ],
+    "activo": true
   }
 ]
