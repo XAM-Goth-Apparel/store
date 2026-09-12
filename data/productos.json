@@ -530,5 +530,23 @@
       "/assets/images/anillo hojas 2.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 30,
+    "nombre": {
+      "es": "Anillo de Pentagrama",
+      "en": "Pentagram Ring"
+    },
+    "descripcion": {
+      "es": "Anillo de metal con un diseño central de pentagrama en relieve, con detalles calados en los costados.",
+      "en": "Metal ring with a central raised pentagram design, featuring cutout details on the sides."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo full pentagrama 1.webp",
+      "/assets/images/anillo full pentagrama 2.webp"
+    ],
+    "activo": true
   }
 ]
