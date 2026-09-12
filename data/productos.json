@@ -972,5 +972,23 @@
       "/assets/images/chocker de cuero cruz con piedra negra en el centro 2.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 55,
+    "nombre": {
+      "es": "Aretes de Araña con Piedra Roja",
+      "en": "Spider Red Stone Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes de araña con una piedra roja central. Disponibles en acabado negro o plateado.",
+      "en": "Spider earrings with a central red stone. Available in black or silver finish."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes aranas 2.webp",
+      "/assets/images/aretes aranas 1.webp"
+    ],
+    "activo": true
   }
 ]
