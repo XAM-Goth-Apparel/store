@@ -818,5 +818,90 @@
       "/assets/images/chocker tejido corazon rojo con alas.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 46,
+    "nombre": {
+      "es": "Collar de Encaje con Rosa Roja",
+      "en": "Lace Choker with Red Rose"
+    },
+    "descripcion": {
+      "es": "Collar de encaje negro con detalles calados, adornado con una cadena plateada y un dije central de rosa roja con cuentas colgantes.",
+      "en": "Black lace choker with cutout details, adorned with a silver chain and a central red rose charm with hanging beads."
+    },
+    "precio": 28000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/chocker tejido con flor y piedra roja.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 47,
+    "nombre": {
+      "es": "Collar de Encaje Morado con Púas",
+      "en": "Purple Lace Spiked Choker"
+    },
+    "descripcion": {
+      "es": "Collar de encaje negro con listón morado, adornado con púas metálicas colgantes y un dije central con cristal oscuro.",
+      "en": "Black lace choker with a purple ribbon, adorned with hanging metallic spikes and a central charm with a dark crystal."
+    },
+    "precio": 28000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/chocker tejido morado con puntas y piedra negra.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 48,
+    "nombre": {
+      "es": "Collar de Encaje Morado con Corazón Ornamentado",
+      "en": "Purple Lace Ornate Heart Choker"
+    },
+    "descripcion": {
+      "es": "Collar de encaje negro con listón morado, adornado con cadenas dobles y un dije central de corazón con detalles ornamentales y cuentas colgantes.",
+      "en": "Black lace choker with a purple ribbon, adorned with double chains and a central ornate heart charm with hanging beads."
+    },
+    "precio": 28000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/chocker tejido morado con corazon y piedra negra.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 49,
+    "nombre": {
+      "es": "Gargantilla de Ataúd con Esqueleto",
+      "en": "Skeleton Coffin Choker"
+    },
+    "descripcion": {
+      "es": "Gargantilla de cuero negro con ojales metálicos, adornada con una cadena y un dije central de ataúd con esqueleto sobre fondo rojo.",
+      "en": "Black leather choker with metallic eyelets, adorned with a chain and a central coffin charm with a skeleton on a red background."
+    },
+    "precio": 25000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/chocker de cuero tumba de esqueleto rojo.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 50,
+    "nombre": {
+      "es": "Gargantilla de Cuero con Nudo Celta",
+      "en": "Celtic Knot Leather Choker"
+    },
+    "descripcion": {
+      "es": "Gargantilla de cuero negro con tachuelas metálicas, adornada con una cadena y un dije central de nudo celta.",
+      "en": "Black leather choker with metallic studs, adorned with a chain and a central Celtic knot charm."
+    },
+    "precio": 25000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/chocker de cuero flor abstracta.webp"
+    ],
+    "activo": true
   }
 ]
