@@ -920,5 +920,57 @@
       "/assets/images/chocker de cuero arana.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 52,
+    "nombre": {
+      "es": "Gargantilla de Cuero con Cruz y Estrella",
+      "en": "Leather Cross and Star Choker"
+    },
+    "descripcion": {
+      "es": "Gargantilla de cuero vegano negro con ojales metálicos, adornada con una cadena y un dije central de cruz ornamentada con una estrella.",
+      "en": "Black vegan leather choker with metallic eyelets, adorned with a chain and a central ornate cross charm with a star."
+    },
+    "precio": 25000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/chocker de cuero cruz invertida.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 53,
+    "nombre": {
+      "es": "Gargantilla de Cuero con Piedra Negra y Rosa",
+      "en": "Leather Black Stone Rose Choker"
+    },
+    "descripcion": {
+      "es": "Gargantilla de cuero vegano con ojales metálicos, cadena y dije ovalado de piedra negra con rosa y marco ornamentado.",
+      "en": "Vegan leather choker with metallic eyelets, chain, and an oval black stone charm with a rose and ornate frame."
+    },
+    "precio": 25000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/chocker de cuero piedra negra con flor grabada encima.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 54,
+    "nombre": {
+      "es": "Gargantilla de Cuero con Cruz y Piedra Negra",
+      "en": "Leather Cross Black Stone Choker"
+    },
+    "descripcion": {
+      "es": "Gargantilla de cuero vegano con ojales metálicos, cadena y dije central de cruz ornamentada con piedra negra.",
+      "en": "Vegan leather choker with metallic eyelets, chain, and a central ornate cross charm with a black stone."
+    },
+    "precio": 25000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/chocker de cuero cruz con piedra negra en el centro.webp",
+      "/assets/images/chocker de cuero cruz con piedra negra en el centro 2.webp"
+    ],
+    "activo": true
   }
 ]
