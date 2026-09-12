@@ -226,5 +226,24 @@
       "/assets/images/baphomet 5.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 13,
+    "nombre": {
+      "es": "Peluche de Gato Gótico Negro",
+      "en": "Black Gothic Cat Plush"
+    },
+    "descripcion": {
+      "es": "Peluche gótico de gato negro con orejas rayadas, grandes ojos azules, correas decorativas y cola rizada.",
+      "en": "Black gothic cat plush with striped ears, big blue eyes, decorative straps, and curled tail."
+    },
+    "precio": 85000,
+    "categoria": "peluches",
+    "imagenes": [
+      "/assets/images/gatito 1.webp",
+      "/assets/images/gatito 2.webp",
+      "/assets/images/gatito 3.webp"
+    ],
+    "activo": true
   }
 ]
