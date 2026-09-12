@@ -765,5 +765,23 @@
       "/assets/images/anillo calavera con cuernos 2.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 43,
+    "nombre": {
+      "es": "Anillo de Baphomet",
+      "en": "Baphomet Ring"
+    },
+    "descripcion": {
+      "es": "Anillo con un diseño detallado de cabeza de Baphomet, con cuernos rizados, orejas marcadas y textura en el pelaje.",
+      "en": "Ring with a detailed Baphomet head design, featuring curled horns, defined ears, and textured fur."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo baphomet 1.webp",
+      "/assets/images/anillo baphomet 2.webp"
+    ],
+    "activo": true
   }
 ]
