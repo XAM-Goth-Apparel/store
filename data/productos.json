@@ -873,12 +873,12 @@
   {
     "id": 49,
     "nombre": {
-      "es": "Gargantilla de Ataúd con Esqueleto",
-      "en": "Skeleton Coffin Choker"
+      "es": "Gargantilla de Cuero con Ataúd y Esqueleto",
+      "en": "Leather Skeleton Coffin Choker"
     },
     "descripcion": {
-      "es": "Gargantilla de cuero negro con ojales metálicos, adornada con una cadena y un dije central de ataúd con esqueleto sobre fondo rojo.",
-      "en": "Black leather choker with metallic eyelets, adorned with a chain and a central coffin charm with a skeleton on a red background."
+      "es": "Gargantilla de cuero vegano negro con ojales metálicos, adornada con una cadena y un dije central de ataúd con esqueleto sobre fondo rojo.",
+      "en": "Black vegan leather choker with metallic eyelets, adorned with a chain and a central coffin charm with a skeleton on a red background."
     },
     "precio": 25000,
     "categoria": "accesorios",
@@ -891,16 +891,33 @@
     "id": 50,
     "nombre": {
       "es": "Gargantilla de Cuero con Nudo Celta",
-      "en": "Celtic Knot Leather Choker"
+      "en": "Leather Celtic Knot Choker"
     },
     "descripcion": {
-      "es": "Gargantilla de cuero negro con tachuelas metálicas, adornada con una cadena y un dije central de nudo celta.",
-      "en": "Black leather choker with metallic studs, adorned with a chain and a central Celtic knot charm."
+      "es": "Gargantilla de cuero vegano negro con tachuelas metálicas, adornada con una cadena y un dije central de nudo celta.",
+      "en": "Black vegan leather choker with metallic studs, adorned with a chain and a central Celtic knot charm."
     },
     "precio": 25000,
     "categoria": "accesorios",
     "imagenes": [
       "/assets/images/chocker de cuero flor abstracta.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 51,
+    "nombre": {
+      "es": "Gargantilla de Cuero con Araña y Piedra Roja",
+      "en": "Leather Spider Red Stone Choker"
+    },
+    "descripcion": {
+      "es": "Gargantilla de cuero vegano negro con ojales metálicos, adornada con una cadena y un dije central de araña con una piedra roja.",
+      "en": "Black vegan leather choker with metallic eyelets, adorned with a chain and a central spider charm with a red stone."
+    },
+    "precio": 25000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/chocker de cuero arana.webp"
     ],
     "activo": true
   }
