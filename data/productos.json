@@ -1367,5 +1367,56 @@
       "/assets/images/aretes hada en medialuna.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 78,
+    "nombre": {
+      "es": "Aretes de Pentagrama Texturizado",
+      "en": "Textured Pentagram Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de pentagrama con textura en tono plateado.",
+      "en": "Dangle earrings with a textured pentagram design in silver tone."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes pentagramas pequenos.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 79,
+    "nombre": {
+      "es": "Aretes de Cruz Ornamentada Roja",
+      "en": "Red Ornate Cross Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de cruz ornamentada en tono rojo y plateado.",
+      "en": "Dangle earrings with an ornate cross design in red and silver tone."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes cruces rojas.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 80,
+    "nombre": {
+      "es": "Aretes de Cruz Ornamentada Plateada",
+      "en": "Silver Ornate Cross Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de cruz ornamentada calada en tono plateado.",
+      "en": "Dangle earrings with an ornate cutout cross design in silver tone.\n\n"
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes cruces plateadas.webp"
+    ],
+    "activo": true
   }
 ]
