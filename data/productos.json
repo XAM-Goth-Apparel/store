@@ -990,5 +990,158 @@
       "/assets/images/aretes aranas 1.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 56,
+    "nombre": {
+      "es": "Aretes de Ataúd con Cruz Roja",
+      "en": "Red Cross Coffin Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes de ataúd en tono rojo con una cruz plateada en el centro.",
+      "en": "Red coffin earrings with a silver cross in the center."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes tumba cruz.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 57,
+    "nombre": {
+      "es": "Aretes de Ataúd con Calavera",
+      "en": "Skull Coffin Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes de ataúd en tono negro con una calavera plateada en el centro.",
+      "en": "Black coffin earrings with a silver skull in the center."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes tumba calavera.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 57,
+    "nombre": {
+      "es": "Aretes de Esqueleto Completo",
+      "en": "Full Skeleton Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño detallado de esqueleto humano completo en tono plateado.",
+      "en": "Dangling earrings with a detailed full human skeleton design in silver tone."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes esqueleto.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 59,
+    "nombre": {
+      "es": "Aretes de Rosa Negra con Colgante",
+      "en": "Black Rose Dangle Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con una rosa negra y un dije alargado facetado en tono negro.",
+      "en": "Dangle earrings with a black rose and an elongated faceted black charm."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes flor negra con roca.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 60,
+    "nombre": {
+      "es": "Aretes de Gato Negro con Cuchillo",
+      "en": "Knife Black Cat Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de gato negro de expresión enojada sosteniendo un cuchillo.",
+      "en": "Dangle earrings with a design of a black cat with an angry expression holding a knife."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes gato negro con cuchillo.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 61,
+    "nombre": {
+      "es": "Aretes de Corazón Anatómico",
+      "en": "Anatomical Heart Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño detallado de corazón anatómico, con acabado negro y plateado.",
+      "en": "Dangle earrings with a detailed anatomical heart design, featuring a black and silver finish."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes corazon negro realista.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 62,
+    "nombre": {
+      "es": "Aretes de Espada con Serpiente y Piedra Negra",
+      "en": "Snake Sword Black Stone Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de espada y una serpiente enrollada, con una piedra negra en el centro.",
+      "en": "Dangle earrings with a sword design and a coiled snake, featuring a black stone in the center."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes serpiente en espada.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 63,
+    "nombre": {
+      "es": "Aretes de Corazón Diablo Derretido",
+      "en": "Melting Devil Heart Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de corazón rojo derretido, con cuernos, cola de diablo y acabado negro.",
+      "en": "Dangle earrings with a melting red heart design, featuring horns, a devil tail, and a black finish."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes corazon diablito.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 64,
+    "nombre": {
+      "es": "Aretes de Corazón Rojizo con Espinas",
+      "en": "Red Crystal Thorned Heart Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un corazón de cristal rojo rodeado por un marco de espinas negras.",
+      "en": "Dangle earrings with a red crystal heart surrounded by a black thorn frame."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes corazon rojo rodeado de pinchos.webp"
+    ],
+    "activo": true
   }
 ]
