@@ -620,5 +620,23 @@
       "/assets/images/anillo demonio oriental 2.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 35,
+    "nombre": {
+      "es": "Anillo Rey Demonio",
+      "en": "Demon King Ring"
+    },
+    "descripcion": {
+      "es": "Anillo de acero inoxidable con un diseño de máscara demoníaca, con cuernos, colmillos marcados y patrones ornamentales en relieve.",
+      "en": "Stainless steel ring with a demonic mask design, featuring horns, pronounced fangs, and raised ornamental patterns."
+    },
+    "precio": 35000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo demonio calavera 1.webp",
+      "/assets/images/anillo demonio calavera 2.webp"
+    ],
+    "activo": true
   }
 ]
