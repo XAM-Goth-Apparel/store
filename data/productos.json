@@ -281,5 +281,22 @@
       "/assets/images/espinas corazon con cadenas 1.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 16,
+    "nombre": {
+      "es": "Collar Gótico de Corazón en Jaula de Huesos",
+      "en": "Gothic Heart in Bone Cage Necklace"
+    },
+    "descripcion": {
+      "es": "Collar de cordón negro con eslabones decorativos y un dije central de corazón rojo rodeado por una jaula de huesos metálicos.",
+      "en": "Black cord necklace with decorative links and a central red heart charm surrounded by a metallic bone cage."
+    },
+    "precio": 35000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/corazon rojo con puas y cuerda negra.webp"
+    ],
+    "activo": true
   }
 ]
