@@ -316,5 +316,23 @@
       "/assets/images/corazon cuernos con cruces 2.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 18,
+    "nombre": {
+      "es": "Collar de Pentagrama Negro con Cuerda",
+      "en": "Black Cord Pentagram Necklace"
+    },
+    "descripcion": {
+      "es": "Collar de cuerda negra con un dije circular que contiene una estrella de cinco puntas formada por eslabones metálicos.",
+      "en": "Black cord necklace with a circular pendant containing a five-pointed star made of metallic links."
+    },
+    "precio": 18000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/collar pentagrama negro.webp",
+      "/assets/images/collar pentagrama negro 2.webp"
+    ],
+    "activo": true
   }
 ]
