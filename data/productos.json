@@ -334,5 +334,22 @@
       "/assets/images/collar pentagrama negro 2.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 19,
+    "nombre": {
+      "es": "Collar de Estrella de Cinco Puntas",
+      "en": "Five-Pointed Star Necklace"
+    },
+    "descripcion": {
+      "es": "Collar de cordón negro con un dije de estrella de cinco puntas en metal plateado con textura y diseño alargado en la punta inferior.",
+      "en": "Black cord necklace with a silver-toned five-pointed star pendant featuring a textured finish and an elongated bottom point."
+    },
+    "precio": 18000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/collar pentagrama metalico y puntudo 1.webp"
+    ],
+    "activo": true
   }
 ]
