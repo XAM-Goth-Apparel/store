@@ -783,5 +783,23 @@
       "/assets/images/anillo baphomet 2.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 44,
+    "nombre": {
+      "es": "Anillo de Águila con Ojo Rojo",
+      "en": "ed-Eyed Eagle Ring"
+    },
+    "descripcion": {
+      "es": "Anillo con un diseño detallado de cabeza de águila, con textura de plumas y un ojo con gema roja.",
+      "en": "Ring with a detailed eagle head design, featuring feather texture and a red gem eye."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo aguila 1.webp",
+      "/assets/images/anillo aguila 2.webp"
+    ],
+    "activo": true
   }
 ]
