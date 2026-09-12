@@ -351,5 +351,22 @@
       "/assets/images/collar pentagrama metalico y puntudo 1.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 20,
+    "nombre": {
+      "es": "Collar Gótico Victoriano con Piedra Negra",
+      "en": "Victorian Gothic Black Stone Necklace"
+    },
+    "descripcion": {
+      "es": "Collar gótico de cadena plateada con intrincados detalles victorianos, piedras negras centrales y cadenas colgantes decorativas.",
+      "en": "Gothic silver chain necklace with intricate Victorian details, central black stones, and decorative hanging chains."
+    },
+    "precio": 45000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/collar grande de princesa gema negra 1.webp"
+    ],
+    "activo": true
   }
 ]
