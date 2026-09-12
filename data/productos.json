@@ -674,5 +674,23 @@
       "/assets/images/anillo craneo de cuervo marcado 2.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 38,
+    "nombre": {
+      "es": "Anillo de Cráneo de Carnero con Cruz Invertida",
+      "en": "Inverted Cross Ram Skull Ring"
+    },
+    "descripcion": {
+      "es": "Anillo con un diseño detallado de cráneo de carnero, con cuernos en espiral, ojos de gema roja y una cruz invertida en la frente.",
+      "en": "Ring with a detailed ram skull design, featuring spiraled horns, red gem eyes, and an inverted cross on the forehead."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo carnero con cruz 1.webp",
+      "/assets/images/anillo carnero con cruz 2.webp"
+    ],
+    "activo": true
   }
 ]
