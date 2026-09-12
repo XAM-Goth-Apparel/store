@@ -548,5 +548,23 @@
       "/assets/images/anillo full pentagrama 2.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 31,
+    "nombre": {
+      "es": "Anillo de Rosa Metálica",
+      "en": "Metal Rose Ring"
+    },
+    "descripcion": {
+      "es": "Anillo de metal con un diseño detallado de rosa en relieve, con pétalos texturizados y centro en espiral.",
+      "en": "Metal ring with a detailed raised rose design, featuring textured petals and a spiral center."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo flor 1.webp",
+      "/assets/images/anillo flor 2.webp"
+    ],
+    "activo": true
   }
 ]
