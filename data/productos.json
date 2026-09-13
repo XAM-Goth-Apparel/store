@@ -1418,5 +1418,167 @@
       "/assets/images/aretes cruces plateadas.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 81,
+    "nombre": {
+      "es": "Brazalete de Chips de Chocolate Metálicos",
+      "en": "Metallic Chocolate Chip Bracelet"
+    },
+    "descripcion": {
+      "es": "Brazalete elástico con un diseño de púas cónicas que parecen chips de chocolate metálicos.",
+      "en": "Elastic bracelet with a design of conical spikes that look like metallic chocolate chips."
+    },
+    "precio": 8000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/manilla chips de metal 1.webp",
+      "/assets/images/manilla chips de metal 2.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 82,
+    "nombre": {
+      "es": "Brazalete de Cuero Enrollado",
+      "en": "Wrap Leather Bracelet"
+    },
+    "descripcion": {
+      "es": "Brazalete de Cuero Enrollado con Cierre Elástico",
+      "en": "Wrap Leather Bracelet with Elastic Closure"
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/brazalete de cuero simple 1.webp",
+      "/assets/images/brazalete de cuero simple 2.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 83,
+    "nombre": {
+      "es": "Brazalete de Cuero Estilo Biker",
+      "en": "Biker Style Leather Cuff"
+    },
+    "descripcion": {
+      "es": "Brazalete ancho de cuero vegano negro con tachuelas metálicas, hebillas decorativas y cierre ajustable.",
+      "en": "Wide black vegan leather cuff with metallic studs, decorative buckles, and adjustable closure."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/brazalete dona 1.webp",
+      "/assets/images/brazalete dona 2.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 84,
+    "nombre": {
+      "es": "Brazalete de Cuero con Calaveras y Tachuelas",
+      "en": "Skull Studded Leather Cuff"
+    },
+    "descripcion": {
+      "es": "Brazalete ancho de cuero vegano negro con tachuelas metálicas, calaveras laterales y una pieza central redondeada.",
+      "en": "Wide black vegan leather cuff with metallic studs, side skulls, and a rounded central piece."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/brazalete calaveras 1.webp",
+      "/assets/images/brazalete calaveras 2.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 85,
+    "nombre": {
+      "es": "Brazalete de Cuero con Tachuelas Redondas",
+      "en": "Round Studded Leather Cuff"
+    },
+    "descripcion": {
+      "es": "Brazalete de cuero vegano negro con tachuelas metálicas redondas y cierre ajustable.",
+      "en": "Black vegan leather cuff with round metallic studs and adjustable closure."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/brazalete mini conos 1.webp",
+      "/assets/images/brazalete calaveras 2-1.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 86,
+    "nombre": {
+      "es": "Brazalete de Cuero de Dos Tiras con Púas Largas",
+      "en": "Two-Strap Long Spiked Leather Cuff"
+    },
+    "descripcion": {
+      "es": "Brazalete de cuero vegano negro con dos tiras separadas, púas metálicas largas y cierre ajustable.",
+      "en": "Black vegan leather cuff with two separate straps, long metallic spikes, and adjustable closure."
+    },
+    "precio": 25000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/brazalete dos tiras 1.webp",
+      "/assets/images/brazalete dos tiras 2.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 87,
+    "nombre": {
+      "es": "Brazalete de Cuero con Tachuelas Piramidales y Púas",
+      "en": "Pyramid Stud and Spike Leather Cuff"
+    },
+    "descripcion": {
+      "es": "Brazalete de cuero vegano negro con tachuelas piramidales, púas cónicas y broches a presión.",
+      "en": "Black vegan leather cuff with pyramid studs, conical spikes, and snap buttons."
+    },
+    "precio": 25000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/brazalete cuadrados y pinchos 1.webp",
+      "/assets/images/brazalete cuadrados y pinchos 2.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 88,
+    "nombre": {
+      "es": "Brazalete de Cuero Cubierto de Tachuelas Piramidales",
+      "en": "Full Pyramid Studded Leather Cuff"
+    },
+    "descripcion": {
+      "es": "Brazalete de cuero vegano negro completamente cubierto con tachuelas piramidales metálicas.",
+      "en": "Black vegan leather cuff fully covered with metallic pyramid studs."
+    },
+    "precio": 25000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/brazalete cuadros 1.webp",
+      "/assets/images/brazalete cuadros 2.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 89,
+    "nombre": {
+      "es": "Brazalete de Cuero con Púas y Tachuelas Facetadas",
+      "en": "Spiked Faceted Studded Leather Cuff"
+    },
+    "descripcion": {
+      "es": "Brazalete de cuero vegano negro con púas cónicas, tachuelas facetadas y broches a presión.",
+      "en": "Black vegan leather cuff with conical spikes, faceted studs, and snap buttons."
+    },
+    "precio": 25000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/brazalete pinchos 1.webp",
+      "/assets/images/brazalete pinchos 2.webp"
+    ],
+    "activo": true
   }
 ]
