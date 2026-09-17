@@ -119,24 +119,23 @@ const traducciones = {
     'why-point3-desc': { es: 'Cruzamos un océano para que no tengas que hacerlo tú. El estilo ya está aquí, solo falta que lo uses. Y cuando lo hagas, vas a entender por qué valió la pena.', en: 'We crossed an ocean so you don\'t have to. The style is already here, you just need to wear it. And when you do, you\'ll understand why it was worth it.' },
     'map-title': { es: '🕯️ Nuestra casa, Tu próxima parada', en: '🕯️ Our home, Your next stop' },
     'map-subtitle': { 
-        es: 'Actualmente nuestros productos están disponibles en <strong>Restaurante y Minimarket Coreano Saranghae</strong>, nuestro socio comercial.<br><small>¡Visítalos y descubre nuestra colección en persona!</small>', 
-        en: 'Our products are currently available at <strong>Saranghae Korean Restaurant & Minimarket</strong>, our business partner.<br><small>Visit them and discover our collection in person!</small>' 
-    },
+        es: 'Actualmente nuestros productos están disponibles en nuestros puntos de venta.<br><small>¡Visítanos y descubre nuestra colección en persona!</small>', 
+        en: 'Our products are currently available at our stores.<br><small>Visit us and discover our collection in person!</small>' },
     'map-partner': { es: 'Nuestro socio', en: 'Our partner' },
     'map-partner-name': { es: 'Restaurante y Minimarket Coreano Saranghae', en: 'Saranghae Korean Restaurant & Minimarket' },
-    'map-address': { es: 'Dirección', en: 'Address' },
     'map-address-text': { es: 'Cra. 44 A N 18 70 Sur, Villavicencio', en: 'Cra. 44 A N 18 70 Sur, Villavicencio' },
-    'map-hours': { es: 'Horario de atención', en: 'Business hours' },
     'map-hours-text': { es: 'Dom - Jue: 1:00 PM - 9:00 PM', en: 'Sun - Thu: 1:00 PM - 9:00 PM' },
+    'map-store2-name': { es: 'Rincon XAM', en: 'XAM Corner' },
+    'map-store2-address': { es: 'Calle 38A N29-29, Centro Comercial Covemeta', en: 'Calle 38A N29-29, Covemeta Shopping Center' },
+    'map-store2-hours': { es: 'Lun - Dom: 10:00 AM - 4:30 PM', en: 'Mon - Sun: 10:00 AM - 4:30 PM' },
+    'map-store2-type': { es: 'XAM Tienda oficial', en: 'XAM official store' },
     'map-note': { 
-        es: ' XAM Goth Apparel es una marca independiente. Nuestros productos están disponibles en este punto de venta gracias a nuestro socio comercial.', 
-        en: ' XAM Goth Apparel is an independent brand. Our products are available at this location thanks to our business partner.' 
-    },
+        es: 'XAM Goth Apparel es una marca independiente. Nuestros productos están disponibles en estos puntos de venta.', 
+        en: 'XAM Goth Apparel is an independent brand. Our products are available at these stores.' },
     'shipping-title': { es: 'de nuestro armario al tuyo', en: 'From our closet to yours' },
     'shipping-text1': { 
         es: 'Sabemos lo que es querer algo y no poder tenerlo porque está lejos. Por eso decidimos que ningún rincón de Colombia se quede sin XAM.', 
-        en: 'We know what it\'s like to want something and not be able to have it because it\'s far away. That\'s why we decided that no corner of Colombia should be without XAM.' 
-    },
+        en: 'We know what it\'s like to want something and not be able to have it because it\'s far away. That\'s why we decided that no corner of Colombia should be without XAM.' },
     'shipping-text2': { 
         es: 'Hacemos envíos a todo el país con mensajería certificada. Tiempo estimado: <strong>3 a 7 días hábiles</strong>. El costo se calcula según tu ubicación.', 
         en: 'We ship nationwide with certified courier. Estimated time: <strong>3 to 7 business days</strong>. The cost is calculated based on your location.' 

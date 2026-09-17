@@ -188,62 +188,89 @@
     <section class="map-section py-5">
         <div class="container">
             <!-- Título y descripción -->
-            <div class="row mb-4">
+            <div class="row mb-5">
                 <div class="col-12 text-center">
-                    <h2 class="section-title" data-i18n="map-title">🕯️ Nuestra casa. Tu próxima parada.</h2>
+                    <h2 class="section-title" data-i18n="map-title">🕯️ Nuestra casa, Tu próxima parada</h2>
                     <p class="text-muted mt-3" data-i18n="map-subtitle">
-                        Actualmente nuestros productos están disponibles en <strong>Restaurante y Minimarket Coreano Saranghae</strong>, nuestro socio comercial.<br>
-                        <small>¡Visítalos y descubre nuestra colección en persona!</small>
+                        Actualmente nuestros productos están disponibles en nuestros puntos de venta.<br>
+                        <small>¡Visítanos y descubre nuestra colección en persona!</small>
                     </p>
                 </div>
             </div>
 
-            <!-- Mapa -->
-            <div class="row">
-                <div class="col-12">
-                    <div class="map-container shadow-lg rounded-4 overflow-hidden">
-                        <iframe 
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3979.5673574928055!2d-73.650902!3d4.1080567!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3e2f39722edbe1%3A0xaf17d9769901a7f9!2sRestaurante%20Y%20Minimarket%20Coreano%20Saranghae!5e0!3m2!1ses-419!2sco!4v1785963107658!5m2!1ses-419!2sco" 
-                            width="100%" 
-                            height="400" 
-                            allowfullscreen=""
-                            style="border:0; filter: grayscale(100%) brightness(0.7) contrast(1.3) invert(5%); -webkit-filter: grayscale(100%) brightness(0.7) contrast(1.3) invert(5%);"
-                            loading="lazy">
-                        </iframe>
+            <!-- Grid de ubicaciones -->
+            <div class="row g-4 justify-content-center">
+                <!-- Local 1: Saranghae -->
+                <div class="col-lg-6">
+                    <div class="location-card">
+                        <div class="location-map">
+                            <iframe 
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3979.5673574928055!2d-73.650902!3d4.1080567!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3e2f39722edbe1%3A0xaf17d9769901a7f9!2sRestaurante%20Y%20Minimarket%20Coreano%20Saranghae!5e0!3m2!1ses-419!2sco!4v1785963107658!5m2!1ses-419!2sco" 
+                                width="100%" 
+                                height="300" 
+                                allowfullscreen=""
+                                style="border:0; filter: grayscale(100%) brightness(0.7) contrast(1.3) invert(5%); -webkit-filter: grayscale(100%) brightness(0.7) contrast(1.3) invert(5%);"
+                                loading="lazy">
+                            </iframe>
+                        </div>
+                        <div class="location-info">
+                            <h4 class="location-name" data-i18n="map-partner-name">Restaurante y Minimarket Coreano Saranghae</h4>
+                            <div class="location-detail">
+                                <i class="bi bi-geo-alt"></i>
+                                <span data-i18n="map-address-text">Cra. 44 A N 18 70 Sur, Villavicencio</span>
+                            </div>
+                            <div class="location-detail">
+                                <i class="bi bi-clock"></i>
+                                <span data-i18n="map-hours-text">Dom - Jue: 1:00 PM - 9:00 PM</span>
+                            </div>
+                            <div class="location-detail">
+                                <i class="bi bi-shop"></i>
+                                <span data-i18n="map-partner">Nuestro socio</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Local 2: XAM Corner -->
+                <div class="col-lg-6">
+                    <div class="location-card">
+                        <div class="location-map">
+                            <iframe 
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d341.7143867492564!2d-73.63534994752298!3d4.153174950444534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3e2de928976893%3A0x802ac3f0e0bf8789!2sCovemeta!5e0!3m2!1ses-419!2sco!4v1789613046032!5m2!1ses-419!2sco" 
+                                width="100%" 
+                                height="300" 
+                                allowfullscreen=""
+                                style="border:0; filter: grayscale(100%) brightness(0.7) contrast(1.3) invert(5%); -webkit-filter: grayscale(100%) brightness(0.7) contrast(1.3) invert(5%);"
+                                loading="lazy"
+                                referrerpolicy="strict-origin-when-cross-origin">
+                            </iframe>
+                        </div>
+                        <div class="location-info">
+                            <h4 class="location-name" data-i18n="map-store2-name">XAM Corner</h4>
+                            <div class="location-detail">
+                                <i class="bi bi-geo-alt"></i>
+                                <span data-i18n="map-store2-address">Calle 38A N29-29, Centro Comercial Covemeta</span>
+                            </div>
+                            <div class="location-detail">
+                                <i class="bi bi-clock"></i>
+                                <span data-i18n="map-store2-hours">Lun - Dom: 10:00 AM - 4:30 PM</span>
+                            </div>
+                            <div class="location-detail">
+                                <i class="bi bi-shop"></i>
+                                <span data-i18n="map-store2-type">Tienda oficial XAM</span>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
 
-            <!-- Información del socio comercial -->
-            <div class="row mt-5">
-                <div class="col-md-4 text-center">
-                    <i class="bi bi-shop fs-2" style="color: #ffffff;"></i>
-                    <p class="mt-2" style="color: #cccccc;">
-                        <strong data-i18n="map-partner">Nuestro socio</strong><br>
-                        <span data-i18n="map-partner-name">Restaurante y Minimarket Coreano Saranghae</span>
-                    </p>
-                </div>
-                <div class="col-md-4 text-center">
-                    <i class="bi bi-geo-alt fs-2" style="color: #ffffff;"></i>
-                    <p class="mt-2" style="color: #cccccc;">
-                        <strong data-i18n="map-address">Dirección</strong><br>
-                        <span data-i18n="map-address-text">Cra. 44 A N 18 70 Sur, Villavicencio</span>
-                    </p>
-                </div>
-                <div class="col-md-4 text-center">
-                    <i class="bi bi-clock fs-2" style="color: #ffffff;"></i>
-                    <p class="mt-2" style="color: #cccccc;">
-                        <strong data-i18n="map-hours">Horario de atención</strong><br>
-                        <span data-i18n="map-hours-text">Dom - Vie: 1:00 PM - 9:00 PM</span>
-                    </p>
-                </div>
-            </div>
+            <br></br>
 
             <!-- Nota aclaratoria -->
             <div class="row mt-4">
                 <div class="col-12 text-center">
                     <p class="text-muted small" style="color: #888888;" data-i18n="map-note">
-                         XAM Goth Apparel es una marca independiente. Nuestros productos están disponibles en este punto de venta gracias a nuestro socio comercial.
+                        XAM Goth Apparel es una marca independiente. Nuestros productos están disponibles en estos puntos de venta.
                     </p>
                 </div>
             </div>
