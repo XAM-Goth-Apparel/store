@@ -1580,5 +1580,96 @@
       "/assets/images/brazalete pinchos 2.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 90,
+    "nombre": {
+      "es": "Corbata de Cuero con Pentagrama",
+      "en": "Leather Pentagram Tie"
+    },
+    "descripcion": {
+      "es": "Corbata de cuero vegano negro con tachuelas metálicas y un pentagrama en el centro.",
+      "en": "Black vegan leather tie with metallic studs and a pentagram in the center."
+    },
+    "precio": 25000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/corbata gotica 2.webp",
+      "/assets/images/corbata gotica.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 91,
+    "nombre": {
+      "es": "Garra Metálica de Dedos",
+      "en": "Metal Finger Claw"
+    },
+    "descripcion": {
+      "es": "Garra metálica articulada que se ajusta a los dedos, con diseño ornamentado y punta afilada.",
+      "en": "Articulated metallic claw that fits over the fingers, featuring an ornate design and a sharp tip."
+    },
+    "precio": 25000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo compuesto feo xd 2.webp",
+      "/assets/images/Anillo compuesto feo xd.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 92,
+    "nombre": {
+      "es": "Garra de Dragón Articulada",
+      "en": "Articulated Dragon Claw"
+    },
+    "descripcion": {
+      "es": "Garra metálica articulada con diseño de cabeza de dragón, ojo de gema roja y punta afilada.",
+      "en": "Articulated metallic claw with a dragon head design, red gem eye, and sharp tip."
+    },
+    "precio": 25000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo dragon.webp",
+      "/assets/images/anillo dragon 2.webp",
+      "/assets/images/anillo dragon 3.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 93,
+    "nombre": {
+      "es": "Garra Metálica Oscura Articulada",
+      "en": "Dark Articulated Metal Claw"
+    },
+    "descripcion": {
+      "es": "Garra metálica articulada de tono oscuro, con detalles texturizados y punta afilada.",
+      "en": "Dark-toned articulated metal claw with textured details and a sharp tip."
+    },
+    "precio": 25000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo compuesto negro 2.webp",
+      "/assets/images/anillo compuesto negro.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 94,
+    "nombre": {
+      "es": "Garra de Calavera Articulada",
+      "en": "Articulated Skull Claw"
+    },
+    "descripcion": {
+      "es": "Garra metálica articulada con diseño de calavera ornamentada y punta afilada.",
+      "en": "Articulated metallic claw with an ornate skull design and a sharp tip."
+    },
+    "precio": 25000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo compuesto calavera 1.webp",
+      "/assets/images/anillo compuesto calavera 2.webp"
+    ],
+    "activo": true
   }
 ]
