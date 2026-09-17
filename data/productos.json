@@ -565,7 +565,7 @@
       "/assets/images/anillo flor 1.webp",
       "/assets/images/anillo flor 2.webp"
     ],
-    "activo": true
+    "activo": false
   },
   {
     "id": 32,
@@ -1040,7 +1040,7 @@
     "imagenes": [
       "/assets/images/aretes esqueleto.webp"
     ],
-    "activo": true
+    "activo": false
   },
   {
     "id": 59,
@@ -1332,7 +1332,7 @@
     "imagenes": [
       "/assets/images/aretes luna de sangre.webp"
     ],
-    "activo": true
+    "activo": false
   },
   {
     "id": 76,
