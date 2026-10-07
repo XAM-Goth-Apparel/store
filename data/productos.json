@@ -2118,5 +2118,202 @@
       "/assets/images/aretes espada larga.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 121,
+    "nombre": {
+      "es": "Brazalete de Cuero con Tachuelas Redondas y Púas Laterales",
+      "en": "Round Stud and Side Spike Leather Cuff"
+    },
+    "descripcion": {
+      "es": "Brazalete de cuero vegano negro con tachuelas redondas y púas metálicas laterales.",
+      "en": "Black vegan leather cuff with round studs and side metallic spikes."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/brazalete puas y taches redondos.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 122,
+    "nombre": {
+      "es": "Brazal de Cuero con Tachuelas y Cordones",
+      "en": "Studded Lace-Up Leather Bracer"
+    },
+    "descripcion": {
+      "es": "Brazal de cuero vegano negro con tachuelas redondas y cierre de cordones.",
+      "en": "Black vegan leather bracer with round studs and lace-up closure."
+    },
+    "precio": 40000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/brazaletes grades de taches redondos.webp",
+      "/assets/images/brazaletes grades de taches redondos 2.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 123,
+    "nombre": {
+      "es": "Anillo de Serpientes Entrelazadas con Piedra",
+      "en": "Intertwined Snakes Stone Ring"
+    },
+    "descripcion": {
+      "es": "Anillo con un diseño de serpientes o ramas entrelazadas, con una piedra central. Disponible con piedra negra o roja.",
+      "en": "Ring with an intertwined snakes or branches design, featuring a central stone. Available with a black or red stone."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillos serpientes con roca negra 2.webp",
+      "/assets/images/anillo serpiente con roca negra 1.webp",
+      "/assets/images/anillo serpiente con roca roja 1.webp",
+      "/assets/images/anillo serpiente con roca roja 2.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 124,
+    "nombre": {
+      "es": "Anillo de Bulldog con Ojo Rojo",
+      "en": "Red-Eyed Bulldog Ring"
+    },
+    "descripcion": {
+      "es": "Anillo con un diseño detallado de cabeza de bulldog, con textura marcada y un ojo con gema roja.",
+      "en": "Ring with a detailed bulldog head design, featuring marked texture and a red gem eye."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo perro bravo.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 125,
+    "nombre": {
+      "es": "Anillo de Calavera Coronada con Ojos Rojos",
+      "en": "Red-Eyed Crowned Skull Ring"
+    },
+    "descripcion": {
+      "es": "Anillo con un diseño de calavera con ojos de gema roja, coronada por calaveras más pequeñas y detalles ornamentales.",
+      "en": "Ring with a skull design featuring red gem eyes, crowned by smaller skulls and ornate details."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo craneo ancestral.webp",
+      "/assets/images/anillo craneo ancestral 2.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 126,
+    "nombre": {
+      "es": "Anillo de Calavera con Textura de Panal y Ojo Rojo",
+      "en": "Honeycomb Skull Red Eye Ring"
+    },
+    "descripcion": {
+      "es": "Anillo con un diseño de calavera con textura de panal, un ojo de gema roja y detalles calados.",
+      "en": "Ring with a skull design featuring a honeycomb texture, a red gem eye, and cutout details."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo craneo con agujeros 1.webp",
+      "/assets/images/anillo craneo con agujeros 2.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 127,
+    "nombre": {
+      "es": "Anillo de Calavera Demoníaca con Ojos Rojos",
+      "en": "Red-Eyed Demonic Skull Ring"
+    },
+    "descripcion": {
+      "es": "Anillo con un diseño de calavera con cuernos, textura marcada y ojos de gema roja.",
+      "en": "Ring with a horned skull design, featuring marked texture and red gem eyes."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo... ni idea xd 1.webp",
+      "/assets/images/anillo... ni idea xd 2.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 128,
+    "nombre": {
+      "es": "Anillo de Cruz Negra con Borde Plateado",
+      "en": "Black Cross Silver Edge Ring"
+    },
+    "descripcion": {
+      "es": "Anillo con un diseño de cruz negra con bordes plateados y puntas ornamentadas.",
+      "en": "Ring with a black cross design featuring silver edges and ornate tips."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo cruz fina 1.webp",
+      "/assets/images/anillo cruz fina 2.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 129,
+    "nombre": {
+      "es": "Anillo de Cruz Patada con Detalle Lateral",
+      "en": "Cross Pattée Side Detail Ring"
+    },
+    "descripcion": {
+      "es": "Anillo con un diseño de cruz patada en negro, con una pequeña cruz decorativa en el costado.",
+      "en": "Ring with a black cross pattée design, featuring a small decorative cross on the side."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo cruz gorda 1.webp",
+      "/assets/images/anillo cruz gorda 2.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 130,
+    "nombre": {
+      "es": "Anillo con Piedra Negra Cuadrada y Laterales Calados",
+      "en": "Square Black Stone Cutout Ring"
+    },
+    "descripcion": {
+      "es": "Anillo con una piedra negra cuadrada y laterales con diseño calado.",
+      "en": "Ring with a square black stone and cutout design on the sides."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo piedra cuadrada y negra 1.webp",
+      "/assets/images/anillo piedra cuadrada y negra 2.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 131,
+    "nombre": {
+      "es": "Anillo de Anubis con Anj",
+      "en": "Anubis with Ankh Ring"
+    },
+    "descripcion": {
+      "es": "Anillo con un diseño detallado de la cabeza de Anubis, con tocado egipcio y el símbolo Anj en el costado.",
+      "en": "Ring with a detailed Anubis head design, featuring an Egyptian headdress and the Ankh symbol on the side."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo anubis.webp"
+    ],
+    "activo": true
   }
 ]
