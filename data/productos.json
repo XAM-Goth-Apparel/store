@@ -1860,5 +1860,144 @@
       "/assets/images/collar de corazon de espinas verde-1.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 106,
+    "nombre": {
+      "es": "Anillo de Corazón Alado Negro",
+      "en": "Black Winged Heart Ring"
+    },
+    "descripcion": {
+      "es": "Anillo de metal con un diseño de corazón negro con alas de murciélago.",
+      "en": "Metal ring with a black heart design featuring bat wings."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo corazon negro con alas 1.webp",
+      "/assets/images/anillo corazon negro con alas 2.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 107,
+    "nombre": {
+      "es": "Anillo de Calavera de Conejo con Ojos Rojos",
+      "en": "Red-Eyed Rabbit Skull Ring"
+    },
+    "descripcion": {
+      "es": "Anillo con un diseño de calavera de conejo, orejas rojas y ojos con gemas rojas.",
+      "en": "Ring with a rabbit skull design, red ears, and red gem eyes."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo craneo de bunny.webp",
+      "/assets/images/anillo craneo de bunny 2.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 108,
+    "nombre": {
+      "es": "Aretes de Sol y Luna",
+      "en": "Sun and Moon Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes desparejados con un diseño de sol y luna en tono negro y plateado.",
+      "en": "Mismatched dangle earrings with a sun and moon design in black and silver tone."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes sol y luna negros.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 109,
+    "nombre": {
+      "es": "Aretes de Guitarra Eléctrica en Forma de V",
+      "en": "V-Shaped Electric Guitar Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de guitarra eléctrica en forma de V, en tono rojo, negro y plateado.",
+      "en": "Dangle earrings with a V-shaped electric guitar design in red, black, and silver tone."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes sharp guitarra.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 110,
+    "nombre": {
+      "es": "Aretes de Cruz con Rosas y Corazón",
+      "en": "Rose Cross Heart Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de cruz formada por rosas y un corazón central de cristal. Disponibles con corazón rojo o negro.",
+      "en": "Dangle earrings with a cross design made of roses and a central crystal heart. Available with a red or black heart."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes cruz de rosas con piedra roja.webp",
+      "/assets/images/aretes cruz de rosas con piedra negra.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 111,
+    "nombre": {
+      "es": "Aretes de Araña con Piedras en Corazón",
+      "en": "Spider Stone Heart Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de araña con piedras azul y negra, dentro de un marco de corazón plateado.",
+      "en": "Dangle earrings with a spider design featuring blue and black stones, inside a silver heart frame."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes de aranita.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 112,
+    "nombre": {
+      "es": "Aretes de Medusa Morada",
+      "en": "Purple Jellyfish Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de medusa, con cúpula morada brillante y tentáculos plateados.",
+      "en": "Dangle earrings with a jellyfish design, featuring a shiny purple dome and silver tentacles."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes de medusa.webp"
+    ],
+    "activo": false
+  },
+  {
+    "id": 113,
+    "nombre": {
+      "es": "Aretes de Gatito Blanco y Negro",
+      "en": "Black and White Kitty Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de gatito blanco y negro sentado.",
+      "en": "Dangle earrings with a sitting black and white kitty design."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes de gato negro con blanco.webp"
+    ],
+    "activo": true
   }
 ]
