@@ -2067,5 +2067,56 @@
       "/assets/images/aretes hoe.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 118,
+    "nombre": {
+      "es": "Aretes de Araña con Piedra Negra",
+      "en": "Black Stone Spider Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de araña en tono plateado y una piedra negra en el centro.",
+      "en": "Dangle earrings with a spider design in silver tone and a black stone in the center."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes aranas finas.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 119,
+    "nombre": {
+      "es": "Aretes de Mano Esquelética",
+      "en": "Skeletal Hand Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de mano esquelética texturizada en tono plateado.",
+      "en": "Dangle earrings with a textured skeletal hand design in silver tone."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes manos esqueleto.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 120,
+    "nombre": {
+      "es": "Aretes de Espada Curva",
+      "en": "Curved Sword Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de espada de hoja curva y empuñadura texturizada en tono plateado.",
+      "en": "Dangle earrings with a curved blade sword design and a textured handle in silver tone."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes espada larga.webp"
+    ],
+    "activo": true
   }
 ]
