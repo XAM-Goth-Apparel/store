@@ -2315,5 +2315,58 @@
       "/assets/images/anillo anubis.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 132,
+    "nombre": {
+      "es": "Anillo de Araña en Telaraña con Piedra Negra",
+      "en": "Spider on Web Black Stone Ring"
+    },
+    "descripcion": {
+      "es": "Anillo con un diseño de araña sobre una telaraña, con una piedra negra en el centro.",
+      "en": "Ring with a spider on a web design, featuring a black stone in the center."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo web con arana y piedra negra-1.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 133,
+    "nombre": {
+      "es": "Anillo con Piedra Ovalada Negra Ornamentada",
+      "en": "Ornate Oval Black Stone Ring"
+    },
+    "descripcion": {
+      "es": "Anillo con una piedra ovalada negra y un marco ornamentado con detalles calados.",
+      "en": "Ring with an oval black stone and an ornate frame with cutout details."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/anillo piedra negra redonda 1-1.webp",
+      "/assets/images/anillo piedra negra redonda 2-1.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 134,
+    "nombre": {
+      "es": "Brazalete de Cuero con Doble Fila de Tachuelas Piramidales",
+      "en": "Double Row Pyramid Studded Leather Cuff"
+    },
+    "descripcion": {
+      "es": "Brazalete de cuero vegano negro con dos filas de tachuelas piramidales y cierre a presión.",
+      "en": "Black vegan leather cuff with two rows of pyramid studs and snap closure."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/brazalete dos lineas de cuadros-1.webp",
+      "/assets/images/brazalete dos lineas de cuadros 2.webp"
+    ],
+    "activo": true
   }
 ]
