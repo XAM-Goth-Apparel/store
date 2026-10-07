@@ -1671,5 +1671,125 @@
       "/assets/images/anillo compuesto calavera 2.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 95,
+    "nombre": {
+      "es": "Gargantilla de Encaje con Serpientes y Cristales Rojos",
+      "en": "Lace Choker with Snakes and Red Crystals"
+    },
+    "descripcion": {
+      "es": "Gargantilla de encaje negro con detalles calados, adornada con cristales rojos colgantes y un dije central de serpientes entrelazadas.",
+      "en": "Black lace choker with cutout details, adorned with hanging red crystals and a central intertwined snakes charm."
+    },
+    "precio": 28000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/gargantilla tejida a mano serpientes 1-1.webp",
+      "/assets/images/gargantilla tejida a mano serpientes 2-1.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 96,
+    "nombre": {
+      "es": "Collar de Guitarra Eléctrica",
+      "en": "Electric Guitar Necklace"
+    },
+    "descripcion": {
+      "es": "Collar de cordón negro con un dije de guitarra eléctrica en tono plateado y negro.",
+      "en": "Black cord necklace with an electric guitar charm in silver and black tone."
+    },
+    "precio": 18000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/collar guitarra redonda-1.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 97,
+    "nombre": {
+      "es": "Collar de Guitarra Eléctrica en Forma de V",
+      "en": "V-Shaped Electric Guitar Necklace"
+    },
+    "descripcion": {
+      "es": "Collar de cordón negro con un dije de guitarra eléctrica en forma de V en tono plateado.",
+      "en": "Black cord necklace with a V-shaped electric guitar charm in silver tone."
+    },
+    "precio": 18000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/collar sharp guitarra-1.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 98,
+    "nombre": {
+      "es": "Collar de Cruz Ornamentada con Piedra Roja",
+      "en": "Ornate Cross Red Stone Necklace"
+    },
+    "descripcion": {
+      "es": "Collar de cordón negro con un dije de cruz ornamentada en tono plateado y una piedra roja en el centro.",
+      "en": "Black cord necklace with an ornate cross charm in silver tone and a red stone in the center."
+    },
+    "precio": 18000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/collar cruz con piedra roja-1.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 99,
+    "nombre": {
+      "es": "Collar de Cruz Invertida con Pentagrama",
+      "en": "Inverted Cross Pentagram Necklace"
+    },
+    "descripcion": {
+      "es": "Collar de cordón negro con un dije de cruz invertida y un pentagrama circular en el centro.",
+      "en": "Black cord necklace with an inverted cross charm and a circular pentagram in the center."
+    },
+    "precio": 18000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/collar cruz con pentagrama-1.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 100,
+    "nombre": {
+      "es": "Collar de Pentagrama con Símbolos",
+      "en": "Symbol Pentagram Necklace"
+    },
+    "descripcion": {
+      "es": "Collar de cordón negro con un dije circular de pentagrama rodeado de símbolos grabados.",
+      "en": "Black cord necklace with a circular pentagram charm surrounded by engraved symbols."
+    },
+    "precio": 18000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/collar pentagrama inscrito en circulo-1.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 101,
+    "nombre": {
+      "es": "Collar de Dragón con Alas Rojas",
+      "en": "Red Winged Dragon Necklace"
+    },
+    "descripcion": {
+      "es": "Collar de cordón negro con un dije de dragón en tono plateado, con alas rojas y una piedra central.",
+      "en": "Black cord necklace with a dragon charm in silver tone, featuring red wings and a central stone."
+    },
+    "precio": 18000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/collar dragon rojo-1.webp"
+    ],
+    "activo": true
   }
 ]
