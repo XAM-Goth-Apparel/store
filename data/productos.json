@@ -2422,5 +2422,141 @@
       "/assets/images/botas de cuero vegano brillante 2.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 138,
+    "nombre": {
+      "es": "Brazalete de Cuero con Tachuelas Redondas",
+      "en": "Round Studded Leather Cuff"
+    },
+    "descripcion": {
+      "es": "Brazalete de cuero vegano negro con tachuelas metálicas redondas y cierre a presión.",
+      "en": "Black vegan leather cuff with round metallic studs and snap closure."
+    },
+    "precio": 10000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/brazalete una linea de tacches redondos.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 139,
+    "nombre": {
+      "es": "Aretes de Corazón con Calaveras",
+      "en": "Skull Heart Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de corazón calado, adornado con calaveras y detalles ornamentales en tono plateado.",
+      "en": "Dangle earrings with a cutout heart design, adorned with skulls and ornate details in silver tone."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes corazon con calaveras.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 140,
+    "nombre": {
+      "es": "Aretes de Estrella con Piedra Negra",
+      "en": "Star Black Stone Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de estrella de múltiples puntas en tono plateado, con una piedra negra en el centro.",
+      "en": "Dangle earrings with a multi-pointed star design in silver tone, featuring a black stone in the center."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes estrella con piedra negra.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 141,
+    "nombre": {
+      "es": "Aretes de Espada Atravesando Corazón Anatomico",
+      "en": "Sword Through Anatomic Heart Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de espada atravesando un corazón de cristal rojo.",
+      "en": "Dangle earrings with a sword design piercing a red crystal heart."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes de corazon realista atravezado por espada.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 142,
+    "nombre": {
+      "es": "Aretes de Cruz Gótica Calada",
+      "en": "Cutout Gothic Cross Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de cruz gótica calada y ornamentada en tono plateado.",
+      "en": "Dangle earrings with a cutout and ornate gothic cross design in silver tone."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes de cruz estilizada.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 143,
+    "nombre": {
+      "es": "Aretes de Murciélago con Piedra Roja",
+      "en": "Bat with Red Stone Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de murciélago en tono plateado y una piedra roja en el centro.",
+      "en": "Dangle earrings with a bat design in silver tone and a red stone in the center."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes de murcielago con piedra roja.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 144,
+    "nombre": {
+      "es": "Brazalete de Cuero con Anillas y Cadenas",
+      "en": "Leather Ring and Chain Cuff"
+    },
+    "descripcion": {
+      "es": "Brazalete de cuero vegano negro con anillas metálicas, cadenas decorativas y cierre ajustable.",
+      "en": "Black vegan leather cuff with metallic rings, decorative chains, and adjustable closure."
+    },
+    "precio": 35000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/cinturilla de cadenas dentro de circulos.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 145,
+    "nombre": {
+      "es": "Brazalete de Cuero con Hebilla Central y Tachuelas",
+      "en": "Center Buckle Studded Leather Cuff"
+    },
+    "descripcion": {
+      "es": "Brazalete de cuero vegano negro con hebilla central, tachuelas metálicas en las esquinas y costura decorativa.",
+      "en": "Black vegan leather cuff with a center buckle, metallic corner studs, and decorative stitching."
+    },
+    "precio": 35000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/cinturilla con correa en el medio.webp"
+    ],
+    "activo": true
   }
 ]
