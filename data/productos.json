@@ -2558,5 +2558,73 @@
       "/assets/images/cinturilla con correa en el medio.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 146,
+    "nombre": {
+      "es": "Brazalete de Cuero con Cadena",
+      "en": "Leather Chain Cuff"
+    },
+    "descripcion": {
+      "es": "Brazalete de cuero vegano negro con una cadena metálica decorativa y cierre a presión.",
+      "en": "Black vegan leather cuff with a decorative metallic chain and snap closure."
+    },
+    "precio": 10000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/brazalete de una linea decorado con cadena.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 147,
+    "nombre": {
+      "es": "Sombrero con Telaraña y Ojales Metálicos",
+      "en": "Spiderweb Metal Eyelet Hat"
+    },
+    "descripcion": {
+      "es": "Sombrero negro con un pin de telaraña y araña, banda decorada con tachuelas y ojales metálicos en el ala.",
+      "en": "Black hat with a spiderweb and spider pin, a studded band, and metallic eyelets on the brim."
+    },
+    "precio": 65000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/sombrero gotico arana.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 148,
+    "nombre": {
+      "es": "Sombrero Vaquero Gótico con Pentagrama y Ojales",
+      "en": "Gothic Cowboy Hat with Pentagram and Eyelets"
+    },
+    "descripcion": {
+      "es": "Sombrero vaquero gótico negro con un pin de pentagrama, banda decorada con tachuelas y ojales metálicos en el ala.",
+      "en": "Black gothic cowboy hat with a pentagram pin, a studded band, and metallic eyelets on the brim."
+    },
+    "precio": 65000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/sombrero gotico pentagrama.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 149,
+    "nombre": {
+      "es": "Sombrero Vaquero Gótico con Cruz Ornamentada",
+      "en": "Gothic Cowboy Hat with Ornate Cross and Eyelets"
+    },
+    "descripcion": {
+      "es": "Sombrero vaquero gótico negro con un pin de cruz ornamentada y ojales metálicos en el ala.",
+      "en": "Black gothic cowboy hat with an ornate cross pin and metallic eyelets on the brim."
+    },
+    "precio": 65000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/sombrero gotico cruz grande.webp"
+    ],
+    "activo": true
   }
 ]
