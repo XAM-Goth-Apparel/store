@@ -1791,5 +1791,74 @@
       "/assets/images/collar dragon rojo-1.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 102,
+    "nombre": {
+      "es": "Collar de Corazón Alado",
+      "en": "Winged Heart Necklace"
+    },
+    "descripcion": {
+      "es": "Collar de cordón negro con un dije central de corazón con alas en tono plateado. Disponible con corazón negro o rojo.",
+      "en": "Black cord necklace with a central winged heart charm in silver tone. Available with a black or red heart."
+    },
+    "precio": 35000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/corazon collar con alas 2-1.webp",
+      "/assets/images/collar corazon con alas 1-1.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 103,
+    "nombre": {
+      "es": "Collar de Pluma con Ojo y Piedra Morada",
+      "en": "Feather Eye Purple Stone Necklace"
+    },
+    "descripcion": {
+      "es": "Collar de cordón negro con un dije de pluma texturizada en tono plateado y un ojo central con piedra morada.",
+      "en": "Black cord necklace with a textured feather charm in silver tone and a central eye with a purple stone."
+    },
+    "precio": 18000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/collar pluma con ojo.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 104,
+    "nombre": {
+      "es": "Collar de Varillas con Picos de Médico de la Peste",
+      "en": "Plague Doctor Beak Rod Necklace"
+    },
+    "descripcion": {
+      "es": "Collar de cadena plateada con un diseño de varillas articuladas y picos de médico de la peste.",
+      "en": "Silver chain necklace with an articulated rod design and plague doctor beaks."
+    },
+    "precio": 45000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/collar con craneos de la peste-1.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 105,
+    "nombre": {
+      "es": "Collar de Cadena con Corazón Verde Espinado",
+      "en": "Green Thorned Heart Chain Necklace"
+    },
+    "descripcion": {
+      "es": "Collar de cadena gruesa plateada con púas laterales y un dije central de corazón de cristal verde rodeado de espinas.",
+      "en": "Thick silver chain necklace with side spikes and a central green crystal heart charm surrounded by thorns."
+    },
+    "precio": 45000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/collar de corazon de espinas verde-1.webp"
+    ],
+    "activo": true
   }
 ]
