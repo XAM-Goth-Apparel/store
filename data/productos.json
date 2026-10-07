@@ -2368,5 +2368,59 @@
       "/assets/images/brazalete dos lineas de cuadros 2.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 135,
+    "nombre": {
+      "es": "Suéter de Calaveras Tejido",
+      "en": "Knitted Skull Sweater"
+    },
+    "descripcion": {
+      "es": "Suéter negro de tejido de acrílico con un patrón de calaveras en blanco y gris.",
+      "en": "Black acrylic knit sweater with a white and gray skull pattern."
+    },
+    "precio": 100000,
+    "categoria": "camisas",
+    "imagenes": [
+      "/assets/images/sueter calaveras 1.webp",
+      "/assets/images/sueter calaveras 2.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 136,
+    "nombre": {
+      "es": "Botas de Plataforma de Cuero Vegano",
+      "en": "Vegan Leather Platform Boots"
+    },
+    "descripcion": {
+      "es": "Botas de plataforma de 5 cm, hechas de cuero vegano negro con cordones, ojales metálicos y costura amarilla decorativa.",
+      "en": "5 cm platform boots made of black vegan leather with laces, metallic eyelets, and decorative yellow stitching."
+    },
+    "precio": 140000,
+    "categoria": "zapatos",
+    "imagenes": [
+      "/assets/images/botas de cuero vegano mate 1.webp",
+      "/assets/images/botas de cuero vegano mate 2.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 137,
+    "nombre": {
+      "es": "Botas de Plataforma de Cuero Vegano Brillante",
+      "en": "Glossy Vegan Leather Platform Boots"
+    },
+    "descripcion": {
+      "es": "Botas de plataforma de 5 cm, hechas de cuero vegano negro brillante con cordones, ojales metálicos y costura amarilla decorativa.",
+      "en": "5 cm platform boots made of glossy black vegan leather with laces, metallic eyelets, and decorative yellow stitching."
+    },
+    "precio": 140000,
+    "categoria": "zapatos",
+    "imagenes": [
+      "/assets/images/botas de cuero vegano brillante 1.webp",
+      "/assets/images/botas de cuero vegano brillante 2.webp"
+    ],
+    "activo": true
   }
 ]
