@@ -1999,5 +1999,73 @@
       "/assets/images/aretes de gato negro con blanco.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 114,
+    "nombre": {
+      "es": "Aretes de Gato Negro con Calavera",
+      "en": "Black Cat and Skull Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de gato negro junto a una calavera blanca.",
+      "en": "Dangle earrings with a black cat design next to a white skull."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes de gato y calavera.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 115,
+    "nombre": {
+      "es": "Aretes de Espada Ornamentada",
+      "en": "Ornate Sword Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de espada ornamentada en tono plateado.",
+      "en": "Dangle earrings with an ornate sword design in silver tone."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes espada corta.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 116,
+    "nombre": {
+      "es": "Aretes de Corazón Horror con Cuchillo",
+      "en": "Horror Heart Knife Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de corazón negro con la palabra \"HORROR\", un cuchillo clavado y una telaraña.",
+      "en": "Dangle earrings with a black heart design featuring the word \"HORROR\", a stabbed knife, and a spiderweb."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes corazon negro con cuchilo.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 116,
+    "nombre": {
+      "es": "Aretes de Hoz Estilizada",
+      "en": "Stylized Sickle Earrings"
+    },
+    "descripcion": {
+      "es": "Aretes colgantes con un diseño de hoz estilizada en tono plateado, con empuñadura texturizada.",
+      "en": "Dangle earrings with a stylized sickle design in silver tone, featuring a textured handle."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/aretes hoe.webp"
+    ],
+    "activo": true
   }
 ]
