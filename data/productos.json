@@ -2834,5 +2834,56 @@
       "/assets/images/xdxdxdxd.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 162,
+    "nombre": {
+      "es": "Manilla de Cuero con Calavera Metálica",
+      "en": "Leather Bracelet with Metallic Skull"
+    },
+    "descripcion": {
+      "es": "Manilla de cuero negro con una calavera metálica en el centro y cierre de hebilla.",
+      "en": "Black leather bracelet with a metallic skull in the center and a buckle closure."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/manilla calavera dorada.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 163,
+    "nombre": {
+      "es": "Manilla de Cuero con Calavera y Huesos",
+      "en": "Leather Bracelet with Skull and Crossbones"
+    },
+    "descripcion": {
+      "es": "Manilla de cuero negro con una calavera y huesos cruzados en el centro, con cierre de hebilla metálica.",
+      "en": "Black leather bracelet with a skull and crossbones in the center, featuring a metallic buckle closure."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/manilla calavera pirata.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 164,
+    "nombre": {
+      "es": "Manilla de Cuero con Placa Calada",
+      "en": "Leather Bracelet with Cutout Plate"
+    },
+    "descripcion": {
+      "es": "Manilla de cuero negro con una placa metálica central calada y cierre de hebilla.",
+      "en": "Black leather bracelet with a central cutout metallic plate and a buckle closure."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/manilla circulos.webp"
+    ],
+    "activo": true
   }
 ]
