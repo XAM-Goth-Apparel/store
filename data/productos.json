@@ -3005,5 +3005,22 @@
       "/assets/images/correa hebilla grande.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 172,
+    "nombre": {
+      "es": "Cinturilla Ancha con Anillas y Cadenas",
+      "en": "Wide Ring and Chain Corset Belt"
+    },
+    "descripcion": {
+      "es": "Cinturilla ancha de cuero vegano negro con elástico lateral, anillas metálicas y cadenas decorativas.",
+      "en": "Wide black vegan leather corset belt with side elastic, metallic rings, and decorative chains."
+    },
+    "precio": 35000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/50.webp"
+    ],
+    "activo": true
   }
 ]
