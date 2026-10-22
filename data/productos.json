@@ -2661,5 +2661,58 @@
       "/assets/images/21.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 152,
+    "nombre": {
+      "es": "Collar de Águila con Medallón",
+      "en": "Eagle Medallion Necklace"
+    },
+    "descripcion": {
+      "es": "Collar de cadena con un dije central de águila de alas extendidas sobre un medallón circular calado. Disponible en acabado plateado o negro.",
+      "en": "Chain necklace with a central eagle charm with spread wings over a cutout circular medallion. Available in silver or black finish."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/23.webp",
+      "/assets/images/24.webp",
+      "/assets/images/25.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 153,
+    "nombre": {
+      "es": "Gorra de Cuero con Púas y Hebilla",
+      "en": "Spiked Leather Cap with Buckle"
+    },
+    "descripcion": {
+      "es": "Gorra de cuero vegano negro con púas metálicas en el frente y una hebilla decorativa en el lateral.",
+      "en": "Black vegan leather cap with metallic spikes on the front and a decorative side buckle."
+    },
+    "precio": 65000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/26.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 154,
+    "nombre": {
+      "es": "Gorra de Cuero Desgastada con Orejas de Murciélago y Púas",
+      "en": "Distressed Leather Bat Ear Cap with Spikes"
+    },
+    "descripcion": {
+      "es": "Gorra de cuero vegano negro con acabado desgastado, orejas de murciélago, púas metálicas y una anilla colgante en el frente.",
+      "en": "Black vegan leather cap with a distressed finish, bat ears, metallic spikes, and a hanging ring on the front."
+    },
+    "precio": 85000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/27.webp"
+    ],
+    "activo": true
   }
 ]
