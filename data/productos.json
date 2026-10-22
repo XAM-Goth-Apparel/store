@@ -2626,5 +2626,40 @@
       "/assets/images/sombrero gotico cruz grande.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 150,
+    "nombre": {
+      "es": "Set de Araña (Collar, Aretes y Anillo)",
+      "en": "Spider Set (Necklace, Earrings & Ring)"
+    },
+    "descripcion": {
+      "es": "Set de araña con collar, aretes y anillo de piedra roja (el collar incluye gota colgante). También disponible en versión con piedra negra.",
+      "en": "Spider set with necklace, earrings, and ring featuring a red stone (necklace includes a hanging drop). Also available in a black stone version."
+    },
+    "precio": 45000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/combo aranas 1.webp",
+      "/assets/images/combo aranas 2.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 151,
+    "nombre": {
+      "es": "Set de Collares Rockstar",
+      "en": "Rockstar Necklace Set"
+    },
+    "descripcion": {
+      "es": "Set de dos collares de cordón negro: uno con una estrella brillante y otro con un dije de guitarra eléctrica negra.",
+      "en": "Set of two black cord necklaces: one with a sparkling star and the other with a black electric guitar charm."
+    },
+    "precio": 30000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/21.webp"
+    ],
+    "activo": true
   }
 ]
