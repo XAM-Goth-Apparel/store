@@ -3022,5 +3022,64 @@
       "/assets/images/50.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 173,
+    "nombre": {
+      "es": "Chaqueta Corta de Cuero Vegano",
+      "en": "Cropped Vegan Leather Jacket"
+    },
+    "descripcion": {
+      "es": "Chaqueta corta de cuero vegano en color vino, con cuello alto, broches metálicos y puños y cintura con elástico negro.",
+      "en": "Burgundy vegan leather cropped jacket with a high collar, metallic snap buttons, and black elastic cuffs and waist."
+    },
+    "precio": 130000,
+    "categoria": "camisas",
+    "imagenes": [
+      "/assets/images/37.webp",
+      "/assets/images/36.webp",
+      "/assets/images/34.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 174,
+    "nombre": {
+      "es": "Chaqueta Corta de Cuero Vegano con Broches y Correa",
+      "en": "Cropped Vegan Leather Jacket with Snaps and Strap"
+    },
+    "descripcion": {
+      "es": "Chaqueta corta de cuero vegano negro con cuello, broches metálicos, cintura elástica y una correa lateral con hebilla.",
+      "en": "Black vegan leather cropped jacket with a collar, metallic snaps, elastic waist, and a side strap with a buckle."
+    },
+    "precio": 130000,
+    "categoria": "camisas",
+    "imagenes": [
+      "/assets/images/38.webp",
+      "/assets/images/40.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 175,
+    "nombre": {
+      "es": "Chaqueta Corta de Cuero Vegano con Cierre",
+      "en": "Cropped Vegan Leather Jacket with Zipper"
+    },
+    "descripcion": {
+      "es": "Chaqueta corta de cuero vegano con cuello alto y cierre frontal de cremallera. Disponible en negro o vino tinto.",
+      "en": "Cropped vegan leather jacket with a high collar and front zipper closure. Available in black or burgundy."
+    },
+    "precio": 110000,
+    "categoria": "camisas",
+    "imagenes": [
+      "/assets/images/45.webp",
+      "/assets/images/41.webp",
+      "/assets/images/42.webp",
+      "/assets/images/44.webp",
+      "/assets/images/46.webp",
+      "/assets/images/43.webp"
+    ],
+    "activo": true
   }
 ]
