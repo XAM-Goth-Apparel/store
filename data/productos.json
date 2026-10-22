@@ -2885,5 +2885,73 @@
       "/assets/images/manilla circulos.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 165,
+    "nombre": {
+      "es": "Manilla de Cuero con Cruz Calada",
+      "en": "Leather Bracelet with Cutout Cross"
+    },
+    "descripcion": {
+      "es": "Manilla de cuero negro con una placa metálica central calada en forma de cruz y cierre de hebilla.",
+      "en": "Black leather bracelet with a central cutout metallic cross plate and a buckle closure."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/manilla cruces unidas.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 166,
+    "nombre": {
+      "es": "Manilla de Cuero con Cruz Dorada",
+      "en": "Leather Bracelet with Gold Cross"
+    },
+    "descripcion": {
+      "es": "Manilla de cuero negro con una placa rectangular y una cruz dorada en el centro, con cierre de hebilla metálica.",
+      "en": "Black leather bracelet with a rectangular plate and a gold cross in the center, featuring a metallic buckle closure."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/Manilla cruz dorada pequena.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 167,
+    "nombre": {
+      "es": "Manilla de Cuero con Cruz Grabada",
+      "en": "Leather Bracelet with Engraved Cross"
+    },
+    "descripcion": {
+      "es": "Manilla de cuero negro con una placa metálica central y una cruz con grabados geométricos, con cierre de hebilla.",
+      "en": "Black leather bracelet with a central metallic plate and a cross with geometric engravings, featuring a buckle closure."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/Manilla cruz dorada.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 168,
+    "nombre": {
+      "es": "Manilla de Cuero con Estrella de David Calada",
+      "en": "Leather Bracelet with Cutout Star of David"
+    },
+    "descripcion": {
+      "es": "Manilla de cuero negro con una placa metálica central calada en forma de Estrella de David, con cierre de hebilla.",
+      "en": "Black leather bracelet with a central cutout metallic Star of David plate, featuring a buckle closure."
+    },
+    "precio": 15000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/Manilla Isreal.webp"
+    ],
+    "activo": true
   }
 ]
