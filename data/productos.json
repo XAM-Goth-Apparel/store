@@ -3081,5 +3081,24 @@
       "/assets/images/43.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 176,
+    "nombre": {
+      "es": "Chaqueta Corta de Cuero Vegano con Franjas Blancas",
+      "en": "Cropped Vegan Leather Jacket with White Stripes"
+    },
+    "descripcion": {
+      "es": "Chaqueta corta de cuero vegano negro con cuello alto, broches metálicos y franjas blancas a lo largo de las mangas.",
+      "en": "Black vegan leather cropped jacket with a high collar, metallic snaps, and white stripes along the sleeves."
+    },
+    "precio": 130000,
+    "categoria": "camisas",
+    "imagenes": [
+      "/assets/images/49.webp",
+      "/assets/images/48.webp",
+      "/assets/images/47.webp"
+    ],
+    "activo": true
   }
 ]
