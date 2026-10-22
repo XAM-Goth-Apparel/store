@@ -2748,5 +2748,57 @@
       "/assets/images/29.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 157,
+    "nombre": {
+      "es": "Falda Gótica con Cruz de Encaje y Cordones",
+      "en": "Gothic Lace Cross Lace-Up Skirt"
+    },
+    "descripcion": {
+      "es": "Falda negra de varias capas con un lazo de encaje en forma de cruz, una cruz rosa central y cordones laterales con ojales metálicos.",
+      "en": "Black layered skirt with a lace cross bow, a central pink cross, and side lace-up details with metallic eyelets."
+    },
+    "precio": 80000,
+    "categoria": "faldas",
+    "imagenes": [
+      "/assets/images/32.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 158,
+    "nombre": {
+      "es": "Collar de Corazón Alado con Piedra Clara",
+      "en": "Winged Heart Light Stone Necklace"
+    },
+    "descripcion": {
+      "es": "Collar de cadena plateada con un dije de corazón de piedra clara rodeado por alas texturizadas.",
+      "en": "Silver chain necklace with a light stone heart charm surrounded by textured wings."
+    },
+    "precio": 20000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/collar de angel bola.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 159,
+    "nombre": {
+      "es": "Collar de Cuero Estampado de Tigre con Púas y Cruces",
+      "en": "Tiger Patterned Leather Spiked Cross Choker"
+    },
+    "descripcion": {
+      "es": "Collar de cuero vegano con estampado animal, eslabones metálicos, púas, pequeñas cruces colgantes y un dije central de estrella con cadenas.",
+      "en": "Vegan leather choker with an animal print, metallic links, spikes, small hanging crosses, and a central star charm with chains."
+    },
+    "precio": 35000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/gargantilla tigre.webp",
+      "/assets/images/gargantilla tigre 2.webp"
+    ],
+    "activo": true
   }
 ]
