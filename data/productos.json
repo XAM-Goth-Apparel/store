@@ -2714,5 +2714,39 @@
       "/assets/images/27.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 155,
+    "nombre": {
+      "es": "Brazalete de Cuero con Cruz de Calaveras y Piedras Negras",
+      "en": "Skull Cross Black Stone Leather Cuff"
+    },
+    "descripcion": {
+      "es": "Brazalete de cuero vegano negro con textura, una cruz central de calaveras, piedras negras incrustadas y borde de bolas metálicas.",
+      "en": "Black vegan leather cuff with texture, a central skull cross, embedded black stones, and a metallic ball border."
+    },
+    "precio": 35000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/31.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 156,
+    "nombre": {
+      "es": "Brazalete de Cuero con Daga de Calavera y Piedras Negras",
+      "en": "Skull Dagger Black Stone Leather Cuff"
+    },
+    "descripcion": {
+      "es": "Brazalete de cuero vegano negro con una daga central con calavera, piedras negras incrustadas y borde de bolas metálicas.",
+      "en": "Black vegan leather cuff with a central skull dagger, embedded black stones, and a metallic ball border."
+    },
+    "precio": 35000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/29.webp"
+    ],
+    "activo": true
   }
 ]
