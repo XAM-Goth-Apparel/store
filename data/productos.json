@@ -3073,9 +3073,9 @@
     "precio": 110000,
     "categoria": "camisas",
     "imagenes": [
-      "/assets/images/45.webp",
-      "/assets/images/41.webp",
       "/assets/images/42.webp",
+      "/assets/images/41.webp",
+      "/assets/images/45.webp",
       "/assets/images/44.webp",
       "/assets/images/46.webp",
       "/assets/images/43.webp"
