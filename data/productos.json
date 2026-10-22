@@ -2800,5 +2800,39 @@
       "/assets/images/gargantilla tigre 2.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 160,
+    "nombre": {
+      "es": "Gargantilla Estilo Collar de Perro con Decorativos",
+      "en": "Dog Collar Style Choker with Decoratives"
+    },
+    "descripcion": {
+      "es": "Collar de cuero vegano negro con hebilla y tachuelas, combinado con cadenas de perlas negras, una pequeña cruz y un dije de estrella.",
+      "en": "Black vegan leather choker with a buckle and studs, combined with black pearl chains, a small cross, and a star charm."
+    },
+    "precio": 45000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/Gargantilla de perrito.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 161,
+    "nombre": {
+      "es": "Collar de Tiras Tipo Goma con Piedras Rojas y Cruces",
+      "en": "Rubber-Like Strap Choker with Red Stones and Crosses"
+    },
+    "descripcion": {
+      "es": "Collar de tiras negras tipo goma entrelazadas, con una piedra roja central, detalles de cruces y una cadena con dije colgante de piedra roja.",
+      "en": "Choker made of intertwined black rubber-like straps, with a central red stone, cross details, and a chain with a hanging red stone charm."
+    },
+    "precio": 40000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/xdxdxdxd.webp"
+    ],
+    "activo": true
   }
 ]
