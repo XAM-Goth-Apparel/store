@@ -2953,5 +2953,57 @@
       "/assets/images/Manilla Isreal.webp"
     ],
     "activo": true
+  },
+  {
+    "id": 169,
+    "nombre": {
+      "es": "Cinturón con Balas Metálicas",
+      "en": "Metallic Bullet Belt"
+    },
+    "descripcion": {
+      "es": "Cinturón de cuero vegano negro con balas metálicas decorativas y hebilla de doble pasador.",
+      "en": "Black vegan leather belt with decorative metallic bullets and a double-prong buckle."
+    },
+    "precio": 50000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/corra balas.webp",
+      "/assets/images/correa balas 2.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 170,
+    "nombre": {
+      "es": "Cinturón con Doble Hebilla y Ojales",
+      "en": "Double Buckle Eyelet Belt"
+    },
+    "descripcion": {
+      "es": "Cinturón de cuero vegano negro con doble hebilla metálica y ojales decorativos en todo el largo.",
+      "en": "Black vegan leather belt with a double metallic buckle and decorative eyelets along the length."
+    },
+    "precio": 45000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/correa de aros sencilla.webp"
+    ],
+    "activo": true
+  },
+  {
+    "id": 171,
+    "nombre": {
+      "es": "Cinturón con Hebilla Ornamentada y Estrellas",
+      "en": "Ornate Buckle and Star Stud Belt"
+    },
+    "descripcion": {
+      "es": "Cinturón de cuero vegano negro con una hebilla metálica de diseño orgánico curvo y tachuelas en forma de estrella de cuatro puntas.",
+      "en": "Black vegan leather belt with an organic curved metallic buckle and four-pointed star studs."
+    },
+    "precio": 45000,
+    "categoria": "accesorios",
+    "imagenes": [
+      "/assets/images/correa hebilla grande.webp"
+    ],
+    "activo": true
   }
 ]
